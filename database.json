@@ -1,0 +1,2525 @@
+{
+  "Adly": [
+    {
+        "id": "adly_cat_50_2005",
+        "brand": "Adly",
+        "model": "Cat 50",
+        "year": 2005,
+        "status": "Discontinued",
+        "tags": ["Scooter", "50cc", "2-Stroke", "Sport Scooter"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Adly%20Cat%2050%2005.jpg",
+        "history": "The Adly Cat 50 was a popular Taiwanese sport scooter, particularly in Europe, known for its aggressive styling featuring distinctive 'bug-eye' dual headlights and a reliable Minarelli-based 2-stroke engine.",
+        "specs": {
+            "engine": "49cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 3.5,
+            "torque": null,
+            "mileage_kmpl": 30,
+            "top_speed": 65,
+            "weight": 86,
+            "cc": 49,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Blue", "Yellow", "Silver"]
+    },
+    {
+        "id": "adly_fox_50_2006",
+        "brand": "Adly",
+        "model": "Fox 50 (GT-50)",
+        "year": 2006,
+        "status": "Discontinued",
+        "tags": ["Scooter", "50cc", "2-Stroke", "Budget"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Adly%20Fox%2050.jpg",
+        "history": "The Adly Fox, also marketed as the GT-50, was a budget-friendly and straightforward 50cc scooter. It offered basic, reliable transportation with simple mechanics and a lightweight frame, making it a common choice for new riders.",
+        "specs": {
+            "engine": "49cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 3.2,
+            "torque": null,
+            "mileage_kmpl": 35,
+            "top_speed": 50,
+            "weight": 78,
+            "cc": 49,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "White", "Blue"]
+    },
+    {
+        "id": "adly_gta_50_2008",
+        "brand": "Adly",
+        "model": "GTA-50",
+        "year": 2008,
+        "status": "Discontinued",
+        "tags": ["Scooter", "50cc", "2-Stroke", "Sport Scooter"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Adly%20GTA-50%2008.jpg",
+        "history": "The GTA-50 was designed with a more modern and sharp aesthetic compared to its predecessors. It featured angular bodywork, an under-seat exhaust, and upgraded components like a front disc brake, targeting the youth sport scooter market.",
+        "specs": {
+            "engine": "49cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 4.1,
+            "torque": null,
+            "mileage_kmpl": 30,
+            "top_speed": 70,
+            "weight": 92,
+            "cc": 49,
+            "price_original_inr": null
+        },
+        "color_variants": ["Orange/Black", "White/Blue", "Matte Black"]
+    },
+    {
+        "id": "adly_jet_100_2005",
+        "brand": "Adly",
+        "model": "Jet 100",
+        "year": 2005,
+        "status": "Discontinued",
+        "tags": ["Scooter", "100cc", "2-Stroke"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Adly%20Jet%20100%2000.jpg",
+        "history": "The Adly Jet provided a step-up in performance from the 50cc models, equipped with a 100cc 2-stroke engine. It maintained a classic scooter design while offering better acceleration and a higher top speed suitable for light urban commuting.",
+        "specs": {
+            "engine": "99.1cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 7.5,
+            "torque": 7.8,
+            "mileage_kmpl": 28,
+            "top_speed": 85,
+            "weight": 90,
+            "cc": 99,
+            "price_original_inr": null
+        },
+        "color_variants": ["Silver", "Red", "Black"]
+    },
+    {
+        "id": "adly_thunder_bike_125_2006",
+        "brand": "Adly",
+        "model": "Thunder Bike 125 (TB-125)",
+        "year": 2006,
+        "status": "Discontinued",
+        "tags": ["Scooter", "125cc", "4-Stroke", "Cruiser Style"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Adly%20TB%20125%20Thunder%20Bike%2006.jpg",
+        "history": "The Thunder Bike was a unique scooter with cruiser-inspired styling, featuring a long wheelbase, pullback handlebars, and a low-slung seat. It aimed to blend the ease-of-use of a scooter with the relaxed riding posture of a cruiser.",
+        "specs": {
+            "engine": "124cc air-cooled, 4-stroke single-cylinder",
+            "horsepower": 9.5,
+            "torque": null,
+            "mileage_kmpl": 32,
+            "top_speed": 95,
+            "weight": 120,
+            "cc": 124,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "Silver", "Burgundy"]
+    }
+  ],
+  "Aeon": [
+    {
+        "id": "aeon_aero_100_2004",
+        "brand": "Aeon",
+        "model": "Aero",
+        "year": 2004,
+        "status": "Discontinued",
+        "tags": ["Scooter", "100cc", "2-Stroke", "Urban"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Aeon%20Aero%20100.jpg",
+        "history": "The Aeon Aero was a compact and simple urban scooter, designed for practicality and ease of use in city traffic, featuring a lightweight chassis and a reliable 2-stroke engine for peppy acceleration.",
+        "specs": {
+            "engine": "97cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 6.8,
+            "torque": null,
+            "mileage_kmpl": 30,
+            "top_speed": 80,
+            "weight": 89,
+            "cc": 97,
+            "price_original_inr": null
+        },
+        "color_variants": ["Blue", "Silver", "Red"]
+    },
+    {
+        "id": "aeon_cobra_400_2012",
+        "brand": "Aeon",
+        "model": "Cobra 400",
+        "year": 2012,
+        "status": "Discontinued",
+        "tags": ["ATV", "Quad", "400cc", "Sport ATV"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Aeon%20Cobra%20400%2012.jpg",
+        "history": "The Cobra series was Aeon's flagship sport ATV line. The Cobra 400 was known for its powerful 4-stroke engine, aggressive styling, and sporty handling, making it a popular choice for recreational trail riding.",
+        "specs": {
+            "engine": "346cc liquid-cooled, 4-stroke single-cylinder",
+            "horsepower": 20.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 95,
+            "weight": 219,
+            "cc": 346,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "White", "Orange"]
+    },
+    {
+        "id": "aeon_elite_350i_2012",
+        "brand": "Aeon",
+        "model": "Elite 350i",
+        "year": 2012,
+        "status": "Discontinued",
+        "tags": ["Scooter", "Maxi-Scooter", "350cc", "4-Stroke", "Fuel Injected"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Aeon%20Elite%20350i%2012%20%201.jpg",
+        "history": "The Elite 350i was a modern maxi-scooter designed for comfortable long-distance commuting. It featured a fuel-injected engine, large storage capacity, and a substantial fairing for weather protection.",
+        "specs": {
+            "engine": "313cc liquid-cooled, 4-stroke single-cylinder",
+            "horsepower": 23.0,
+            "torque": 23.8,
+            "mileage_kmpl": 25,
+            "top_speed": 130,
+            "weight": 169,
+            "cc": 313,
+            "price_original_inr": null
+        },
+        "color_variants": ["Matte Black", "White", "Titanium"]
+    },
+    {
+        "id": "aeon_my_150_2012",
+        "brand": "Aeon",
+        "model": "My 150",
+        "year": 2012,
+        "status": "Discontinued",
+        "tags": ["Motorcycle", "Mini Bike", "Retro", "150cc", "4-Stroke"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Aeon%20My%20150%2012.jpg",
+        "history": "The Aeon My was a small-sized, retro-styled motorcycle aimed at new riders and those looking for a fun, stylish, and easy-to-handle bike for city use, similar in concept to the Honda Grom.",
+        "specs": {
+            "engine": "149cc air-cooled, 4-stroke single-cylinder",
+            "horsepower": 10.0,
+            "torque": 10.0,
+            "mileage_kmpl": 40,
+            "top_speed": 100,
+            "weight": 113,
+            "cc": 149,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "White", "Orange", "Pink"]
+    }
+  ],
+  "Aermacchi": [
+    {
+        "id": "aermacchi_ala_doro_1961",
+        "brand": "Aermacchi",
+        "model": "Ala d'Oro 250",
+        "year": 1961,
+        "status": "Discontinued",
+        "tags": ["Race Bike", "Classic", "Historic", "Single-Cylinder"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Aermacchi%20250%20Ala%20d'Oro%2061.jpg",
+        "history": "The 'Golden Wing' was Aermacchi's production racer, a highly successful and beautiful machine that dominated its class in Italian racing. It was renowned for its excellent handling due to the low-slung horizontal single-cylinder engine.",
+        "specs": {
+            "engine": "246cc air-cooled, OHV horizontal single-cylinder",
+            "horsepower": 28.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 190,
+            "weight": 102,
+            "cc": 246,
+            "price_original_inr": null
+        },
+        "color_variants": ["Racing Red"]
+    },
+    {
+        "id": "aermacchi_chimera_250_1958",
+        "brand": "Aermacchi",
+        "model": "Chimera 250",
+        "year": 1958,
+        "status": "Discontinued",
+        "tags": ["Classic", "Historic", "Enclosed Bodywork"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Aermacchi%20Chimera%20250%2058.jpg",
+        "history": "The Chimera was a radical design for its time, featuring fully enclosed bodywork that hid the engine and drivetrain. While commercially unsuccessful, its futuristic 'streamliner' look made it an icon of 1950s motorcycle design.",
+        "specs": {
+            "engine": "246cc air-cooled, OHV horizontal single-cylinder",
+            "horsepower": 13.5,
+            "torque": null,
+            "mileage_kmpl": 30,
+            "top_speed": 120,
+            "weight": 126,
+            "cc": 246,
+            "price_original_inr": null
+        },
+        "color_variants": ["Ivory", "Red"]
+    },
+    {
+        "id": "harleydavidson_aermacchi_sprint_350ss_1971",
+        "brand": "Aermacchi",
+        "model": "Harley-Davidson Sprint 350 SS",
+        "year": 1971,
+        "status": "Discontinued",
+        "tags": ["Classic", "Roadster", "Single-Cylinder"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Harley-Davidson_SS-350_Sprint_1972.jpg",
+        "history": "During its part-ownership by Harley-Davidson, Aermacchi produced the Sprint line. The 350 SS was a lightweight, agile roadster that offered a distinctly different riding experience from H-D's traditional V-twins, helping the brand compete with European and Japanese imports.",
+        "specs": {
+            "engine": "344cc air-cooled, OHV horizontal single-cylinder",
+            "horsepower": 25.0,
+            "torque": null,
+            "mileage_kmpl": 22,
+            "top_speed": 145,
+            "weight": 143,
+            "cc": 344,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Blue", "Black"]
+    }
+  ],
+  "AJP": [
+    {
+        "id": "ajp_pr7_adventure_2018",
+        "brand": "AJP",
+        "model": "PR7 Adventure",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["Adventure", "Enduro", "Rally", "Single-Cylinder"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/AJP%20PR7%20Adventure%2018.jpg",
+        "history": "The AJP PR7 is a unique, rally-inspired adventure bike. It combines a lightweight enduro chassis with a proven 600cc single-cylinder engine and a distinctive vertical tablet-style navigation tower, creating a true hardcore adventure machine.",
+        "specs": {
+            "engine": "600cc liquid-cooled, DOHC 4-stroke single-cylinder",
+            "horsepower": 48.0,
+            "torque": 58,
+            "mileage_kmpl": 20,
+            "top_speed": 160,
+            "weight": 165,
+            "cc": 600,
+            "price_original_inr": null
+        },
+        "color_variants": ["White/Red/Blue"]
+    },
+    {
+        "id": "ajp_spr_310r_2021",
+        "brand": "AJP",
+        "model": "SPR 310R",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Enduro", "Off-Road", "Race"],
+        "imageURL": "https://www.ajpmotos.com/wp-content/uploads/2021/01/SPR-310-01-2048x1261.png",
+        "history": "The SPR series represents AJP's competition-focused enduro bikes. The 310R is a modern four-stroke enduro designed for technical trails and racing, featuring high-quality suspension, a responsive engine, and a lightweight frame.",
+        "specs": {
+            "engine": "310cc liquid-cooled, DOHC 4-stroke single-cylinder",
+            "horsepower": 37.0,
+            "torque": 33,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 118,
+            "cc": 310,
+            "price_original_inr": null
+        },
+        "color_variants": ["White/Red/Blue"]
+    }
+  ],
+  "AJS": [
+    {
+        "id": "ajs_7r_boyracer_1954",
+        "brand": "AJS",
+        "model": "7R 'Boy Racer'",
+        "year": 1954,
+        "status": "Discontinued",
+        "tags": ["Race Bike", "Classic", "Historic", "Single-Cylinder"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c9/AJS_7R_350_cc_1954.jpg",
+        "history": "The AJS 7R, affectionately known as the 'Boy Racer', was one of the most successful 350cc production racers ever made. Its reliability, excellent handling, and tuning potential made it a favorite among privateer racers for decades.",
+        "specs": {
+            "engine": "348cc air-cooled, OHC single-cylinder",
+            "horsepower": 38.5,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 190,
+            "weight": 129,
+            "cc": 348,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black/Gold"]
+    },
+    {
+        "id": "ajs_e95_porcupine_1954",
+        "brand": "AJS",
+        "model": "E95 'Porcupine'",
+        "year": 1954,
+        "status": "Discontinued",
+        "tags": ["Race Bike", "Classic", "Historic", "GP Racer"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6d/AJS_E95_Porcupine_1954.jpg",
+        "history": "The AJS E95 'Porcupine' is a legendary and extremely rare Grand Prix racing motorcycle. It earned its nickname from the spiky fins on its twin-cylinder head. An earlier version, the E90, won the inaugural 500cc World Championship in 1949.",
+        "specs": {
+            "engine": "498cc air-cooled, DOHC parallel-twin",
+            "horsepower": 55.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 225,
+            "weight": 154,
+            "cc": 498,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black/Gold"]
+    },
+    {
+        "id": "ajs_cadwell_125_2018",
+        "brand": "AJS",
+        "model": "Cadwell 125",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["Cafe Racer", "Retro", "125cc", "Learner"],
+        "imageURL": "https://www.ajsmotorcycles.co.uk/s/cc_images/cache_42065848.jpg",
+        "history": "Under its modern ownership, the AJS brand offers a range of small-displacement retro bikes. The Cadwell 125 is a classic-styled cafe racer, providing an affordable and stylish entry point for new riders with its low running costs and vintage looks.",
+        "specs": {
+            "engine": "124cc air-cooled, 4-stroke single-cylinder",
+            "horsepower": 9.9,
+            "torque": 9.5,
+            "mileage_kmpl": 40,
+            "top_speed": 100,
+            "weight": 113,
+            "cc": 124,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "Silver", "Blue"]
+    }
+  ],
+  "Aprilia": [
+    {
+        "id": "aprilia_rs250_1998",
+        "brand": "Aprilia",
+        "model": "RS 250",
+        "year": 1998,
+        "status": "Discontinued",
+        "tags": ["Sportbike", "2-Stroke", "Race Replica", "Iconic"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aprilia_RS250_Chesterfield.jpg",
+        "history": "The Aprilia RS 250 is arguably the ultimate road-legal 2-stroke race replica. With a Suzuki RGV250-derived V-twin engine and a chassis developed from Grand Prix experience, it offered unparalleled handling and a raw, exhilarating riding experience.",
+        "specs": {
+            "engine": "249cc liquid-cooled, 2-stroke 90° V-twin",
+            "horsepower": 60,
+            "torque": 40,
+            "mileage_kmpl": 15,
+            "top_speed": 210,
+            "weight": 141,
+            "cc": 249,
+            "price_original_inr": null
+        },
+        "color_variants": ["Chesterfield Replica", "Black", "Tetsuya Harada Replica"]
+    },
+    {
+        "id": "aprilia_rsv4_factory_2021",
+        "brand": "Aprilia",
+        "model": "RSV4 1100 Factory",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Superbike", "V4", "Track Focused", "Exotic"],
+        "imageURL": "https://www.aprilia.com/assets/aprilia-resp/master/models/rsv4/2023/rsv4-factory/color-time-attack/01_2s002014/2s002014-01/original/2s002014-01.png",
+        "history": "The RSV4 is Aprilia's flagship superbike, born from their World Superbike Championship-winning platform. The Factory version represents the pinnacle of performance with a powerful 1100cc V4 engine, semi-active Öhlins suspension, and advanced MotoGP-derived aerodynamics.",
+        "specs": {
+            "engine": "1099cc liquid-cooled, 65° V4",
+            "horsepower": 217,
+            "torque": 125,
+            "mileage_kmpl": 14,
+            "top_speed": 305,
+            "weight": 202,
+            "cc": 1099,
+            "price_original_inr": null
+        },
+        "color_variants": ["Time Attack", "Ultra Dark"]
+    },
+    {
+        "id": "aprilia_tuareg_660_2022",
+        "brand": "Aprilia",
+        "model": "Tuareg 660",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Adventure", "Middleweight", "Off-Road Capable"],
+        "imageURL": "https://www.aprilia.com/assets/aprilia-resp/master/models/tuareg-660/2023/tuareg-660/color-canyon-sand/01_2q000570/2q000570-01/original/2q000570-01.png",
+        "history": "Reviving the historic Tuareg name, the new 660 is a modern middleweight adventure bike. It uses the versatile parallel-twin engine from the RS 660, placing it in a purpose-built chassis with long-travel suspension and a 21-inch front wheel, excelling in off-road performance.",
+        "specs": {
+            "engine": "659cc liquid-cooled, parallel-twin",
+            "horsepower": 80,
+            "torque": 70,
+            "mileage_kmpl": 25,
+            "top_speed": 190,
+            "weight": 204,
+            "cc": 659,
+            "price_original_inr": null
+        },
+        "color_variants": ["Indaco Tagelmust", "Martian Red", "Canyon Sand"]
+    },
+    {
+        "id": "aprilia_tuono_v4_factory_2021",
+        "brand": "Aprilia",
+        "model": "Tuono V4 Factory",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Hypernaked", "V4", "Streetfighter"],
+        "imageURL": "https://www.aprilia.com/assets/aprilia-resp/master/models/tuono-v4/2023/tuono-v4-factory/color-time-attack/01_2s002015/2s002015-01/original/2s002015-01.png",
+        "history": "The Tuono started the 'hypernaked' trend by taking the RSV superbike and giving it upright handlebars. The modern Tuono V4 Factory continues this formula, offering superbike-level performance, electronics, and suspension in a more comfortable road-focused package.",
+        "specs": {
+            "engine": "1077cc liquid-cooled, 65° V4",
+            "horsepower": 175,
+            "torque": 121,
+            "mileage_kmpl": 13,
+            "top_speed": 270,
+            "weight": 209,
+            "cc": 1077,
+            "price_original_inr": null
+        },
+        "color_variants": ["Time Attack", "Too Fast"]
+    }
+  ],
+  "Arch": [
+    {
+        "id": "arch_krgt1_2020",
+        "brand": "Arch",
+        "model": "KRGT-1",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["Performance Cruiser", "Custom", "V-Twin", "Exotic"],
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5e714659d435586a165c829e/1585848520268-9BTR9Y30E40V7D8S965Y/ARCH-Motorcycle-KRGT-1-Side-View-Silver.png",
+        "history": "The KRGT-1 is the first model from Arch Motorcycle, co-founded by Keanu Reeves. It's a bespoke performance cruiser, tailored to each owner, combining a massive American V-twin with high-end components like Öhlins suspension and a unique, beautifully machined aluminum chassis.",
+        "specs": {
+            "engine": "2032cc S&S T124 air-cooled, 45° V-twin",
+            "horsepower": null,
+            "torque": 165,
+            "mileage_kmpl": 14,
+            "top_speed": 220,
+            "weight": 272,
+            "cc": 2032,
+            "price_original_inr": null
+        },
+        "color_variants": ["Custom Bespoke"]
+    },
+    {
+        "id": "arch_1s_2022",
+        "brand": "Arch",
+        "model": "1s",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Performance Cruiser", "Sport", "V-Twin", "Exotic"],
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5e714659d435586a165c829e/5770513e-a134-4b47-ae23-018251e6b360/1s_profile.png",
+        "history": "The 1s is Arch's second model, evolving the performance cruiser concept with a more aggressive, sporting riding position. It features a single-sided swingarm and a more forward-leaning stance, blurring the line between a cruiser and a sport naked bike.",
+        "specs": {
+            "engine": "2032cc S&S T124 air-cooled, 45° V-twin",
+            "horsepower": null,
+            "torque": 165,
+            "mileage_kmpl": 14,
+            "top_speed": 220,
+            "weight": 255,
+            "cc": 2032,
+            "price_original_inr": null
+        },
+        "color_variants": ["Custom Bespoke"]
+    },
+    {
+        "id": "arch_method_143_2018",
+        "brand": "Arch",
+        "model": "Method 143",
+        "year": 2018,
+        "status": "Limited Production (23 units)",
+        "tags": ["Concept", "Ultra-Exotic", "V-Twin"],
+        "imageURL": "https://images.squarespace-cdn.com/content/v1/5e714659d435586a165c829e/1585848598730-R35W4M40X28W3T33F921/ARCH-Motorcycle-Method-143-Side-View-Carbon-Fiber.png",
+        "history": "The Method 143 is Arch's most radical and exclusive creation. Limited to just 23 units, it features a carbon fiber 'monocell' chassis, a monstrous 143 cubic inch (2343cc) engine, and conceptual design elements like layered leather and carbon fiber bodywork.",
+        "specs": {
+            "engine": "2343cc S&S T143 air-cooled, 45° V-twin",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 243,
+            "cc": 2343,
+            "price_original_inr": null
+        },
+        "color_variants": ["Carbon Fiber"]
+    }
+  ],
+  "Ariel": [
+    {
+        "id": "ariel_square_four_mk2_1953",
+        "brand": "Ariel",
+        "model": "Square Four Mark II",
+        "year": 1953,
+        "status": "Discontinued",
+        "tags": ["Classic", "Historic", "Square Four Engine"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Ariel_Square_Four_1000cc_1956_1.jpg",
+        "history": "The Ariel Square Four is an icon of British engineering, famous for its unique engine: two parallel-twins geared together in a square formation. The Mark II, with its distinctive 'four-pipe' exhaust, was a smooth and powerful luxury tourer, the 'gentleman's motorcycle' of its day.",
+        "specs": {
+            "engine": "997cc air-cooled, OHV Square Four",
+            "horsepower": 40.0,
+            "torque": null,
+            "mileage_kmpl": 18,
+            "top_speed": 160,
+            "weight": 197,
+            "cc": 997,
+            "price_original_inr": null
+        },
+        "color_variants": ["Deep Claret Red", "Black"]
+    },
+    {
+        "id": "ariel_red_hunter_500_1954",
+        "brand": "Ariel",
+        "model": "Red Hunter 500",
+        "year": 1954,
+        "status": "Discontinued",
+        "tags": ["Classic", "Historic", "Thumper", "Single-Cylinder"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ariel_VH_Red_Hunter.jpg",
+        "history": "The Red Hunter was Ariel's definitive sporting single-cylinder motorcycle for over 25 years. Known for its reliability and handsome looks with its distinctive chrome and red fuel tank, it was a popular and successful machine in road riding and clubman racing.",
+        "specs": {
+            "engine": "497cc air-cooled, OHV single-cylinder",
+            "horsepower": 24.0,
+            "torque": null,
+            "mileage_kmpl": 25,
+            "top_speed": 130,
+            "weight": 163,
+            "cc": 497,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red/Chrome"]
+    },
+    {
+        "id": "ariel_ace_2015",
+        "brand": "Ariel",
+        "model": "Ace",
+        "year": 2015,
+        "status": "In Production",
+        "tags": ["Modern", "Custom", "Exotic", "V4"],
+        "imageURL": "https://www.arielmotor.co.uk/wp-content/uploads/2021/07/Ariel-Ace-Motorcycle-11.jpg",
+        "history": "The modern Ariel company, famous for the Atom car, revived the motorcycle brand with the Ace. It's a modular, bespoke motorcycle built around a Honda VFR1200 V4 engine and a stunning machined aluminum trellis frame, offered in various styles from cruiser to sport.",
+        "specs": {
+            "engine": "1237cc liquid-cooled, 76° V4",
+            "horsepower": 173.0,
+            "torque": 131,
+            "mileage_kmpl": 15,
+            "top_speed": 265,
+            "weight": 230,
+            "cc": 1237,
+            "price_original_inr": null
+        },
+        "color_variants": ["Custom Bespoke"]
+    }
+  ],
+  "ATK": [
+    {
+        "id": "atk_406_1994",
+        "brand": "ATK",
+        "model": "406",
+        "year": 1994,
+        "status": "Discontinued",
+        "tags": ["Enduro", "2-Stroke", "Single-Cylinder", "Off-Road"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery/ATK%20406%2097.jpg",
+        "history": "The ATK 406 was a potent, big-bore two-stroke enduro motorcycle from the American manufacturer. It was known for innovative features like its counter-shaft sprocket-mounted rear brake, no-linkage rear suspension, and the use of a reliable, air-cooled Rotax engine.",
+        "specs": {
+            "engine": "398cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 42.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 130,
+            "weight": 108,
+            "cc": 398,
+            "price_original_inr": null
+        },
+        "color_variants": ["White/Purple", "White/Red"]
+    },
+    {
+        "id": "atk_605_enduro_1997",
+        "brand": "ATK",
+        "model": "605 Enduro",
+        "year": 1997,
+        "status": "Discontinued",
+        "tags": ["Enduro", "4-Stroke", "Thumper", "Off-Road"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery/ATK%20605%20Enduro.jpg",
+        "history": "The ATK 605 was a highly regarded four-stroke enduro bike, powered by a robust Rotax single-cylinder engine. It gained a reputation for its massive torque, reliability, and excellent build quality, making it a favorite for desert racing and aggressive trail riding.",
+        "specs": {
+            "engine": "598cc air/oil-cooled, 4-stroke single-cylinder",
+            "horsepower": 45.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 150,
+            "weight": 117,
+            "cc": 598,
+            "price_original_inr": null
+        },
+        "color_variants": ["White/Blue", "Black"]
+    },
+    {
+        "id": "atk_700_intimidator_2003",
+        "brand": "ATK",
+        "model": "700 Intimidator",
+        "year": 2003,
+        "status": "Limited Production",
+        "tags": ["Enduro", "2-Stroke", "Ultra-Exotic", "Big Bore"],
+        "imageURL": "https://dirtbikemagazine.com/wp-content/uploads/2016/09/image00018.jpg",
+        "history": "The ATK 700 Intimidator is a legendary, almost mythical motorcycle. It was a limited-production machine built to be the most powerful 2-stroke dirt bike in the world, featuring a massive 685cc two-stroke engine. It was an exercise in extreme power and engineering.",
+        "specs": {
+            "engine": "685cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": 78.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 160,
+            "weight": 108,
+            "cc": 685,
+            "price_original_inr": null
+        },
+        "color_variants": ["Blue"]
+    }
+  ],
+  "Azel": [
+    {
+        "id": "azel_soho_125_2008",
+        "brand": "Azel",
+        "model": "Soho 125",
+        "year": 2008,
+        "status": "Discontinued",
+        "tags": ["Scooter", "125cc", "4-Stroke", "Commuter"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Azel%20Soho%20125.jpg",
+        "history": "The Azel Soho 125 is a representative example of the many badge-engineered commuter scooters produced in China and Taiwan. It offered affordable, basic transportation with a reliable GY6-style 4-stroke engine and practical features for urban use.",
+        "specs": {
+            "engine": "124cc air-cooled, 4-stroke single-cylinder",
+            "horsepower": 7.5,
+            "torque": null,
+            "mileage_kmpl": 35,
+            "top_speed": 90,
+            "weight": 105,
+            "cc": 124,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "Silver", "Red", "Blue"]
+    }
+  ],
+  "Bajaj": [
+    {
+        "id": "bajaj_pulsar_220f_2017",
+        "brand": "Bajaj",
+        "model": "Pulsar 220F",
+        "year": 2017,
+        "status": "In Production",
+        "tags": ["Sport Touring", "Commuter", "Iconic", "Indian"],
+        "imageURL": "https://cdn.bajajauto.com/-/media/assets/bajajauto/360-images/pulsar-220/220f-dgr/00.png",
+        "history": "The Pulsar 220F has been an icon in the Indian motorcycle market for over a decade. Nicknamed 'The Fastest Indian' upon its launch, it offered unparalleled performance for its price, a semi-faired design, and features like a digital console, making it a cult favorite.",
+        "specs": {
+            "engine": "220cc oil-cooled, 2-valve, DTS-i single-cylinder",
+            "horsepower": 20.1,
+            "torque": 18.55,
+            "mileage_kmpl": 40,
+            "top_speed": 136,
+            "weight": 160,
+            "cc": 220,
+            "price_original_inr": 134000
+        },
+        "color_variants": ["Volcanic Red", "Pearl White", "Sparkle Black"]
+    },
+    {
+        "id": "bajaj_dominar_400_2019",
+        "brand": "Bajaj",
+        "model": "Dominar 400",
+        "year": 2019,
+        "status": "In Production",
+        "tags": ["Power Cruiser", "Touring", "Single-Cylinder", "Indian"],
+        "imageURL": "https://cdn.bajajauto.com/-/media/assets/bajajauto/360-images/dominar/d-400/savanna-green/00.png",
+        "history": "The Dominar 400 is Bajaj's flagship motorcycle, positioned as a 'power cruiser'. It utilizes a modified engine from the KTM 390 Duke, offering strong touring capabilities with comfortable ergonomics, a muscular design, and premium features like USD forks and full LED lighting.",
+        "specs": {
+            "engine": "373.3cc liquid-cooled, DOHC, triple-spark single-cylinder",
+            "horsepower": 39.4,
+            "torque": 35,
+            "mileage_kmpl": 28,
+            "top_speed": 155,
+            "weight": 193,
+            "cc": 373,
+            "price_original_inr": 224000
+        },
+        "color_variants": ["Savanna Green", "Charcoal Black"]
+    },
+    {
+        "id": "bajaj_avenger_cruise_220_2018",
+        "brand": "Bajaj",
+        "model": "Avenger Cruise 220",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["Cruiser", "Commuter", "Indian"],
+        "imageURL": "https://cdn.bajajauto.com/-/media/assets/bajajauto/360-images/avenger/avenger-220-cruise/moon-white/00.png",
+        "history": "The Bajaj Avenger is India's most popular entry-level cruiser. The Cruise 220 variant features classic cruiser styling with a tall windscreen, low-slung seat, and forward-set footpegs, offering a relaxed and comfortable ride for long-distance touring on a budget.",
+        "specs": {
+            "engine": "220cc oil-cooled, 2-valve, DTS-i single-cylinder",
+            "horsepower": 18.7,
+            "torque": 17.55,
+            "mileage_kmpl": 40,
+            "top_speed": 120,
+            "weight": 163,
+            "cc": 220,
+            "price_original_inr": 138000
+        },
+        "color_variants": ["Moon White", "Auburn Black"]
+    },
+    {
+        "id": "bajaj_chetak_ev_2020",
+        "brand": "Bajaj",
+        "model": "Chetak (EV)",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["Scooter", "Electric", "Retro", "Urban"],
+        "imageURL": "https://cdn.bajajauto.com/-/media/assets/bajajauto/360-images/chetak/premium-2023/brooklyn-black/00.png",
+        "history": "Reviving one of India's most iconic nameplates, the new Chetak is a premium electric scooter. It pays homage to the classic Chetak with its retro-inspired design and metal body panels, but incorporates modern technology like an IP67-rated battery, digital console, and keyless start.",
+        "specs": {
+            "engine": "4.2kW Peak Power PMSM Electric Motor",
+            "horsepower": 5.6,
+            "torque": 20,
+            "mileage_kmpl": 108,
+            "top_speed": 73,
+            "weight": 133,
+            "cc": 0,
+            "price_original_inr": 152000
+        },
+        "color_variants": ["Brooklyn Black", "Matte Coarse Grey", "Indigo Metallic"]
+    }
+  ],
+  "Benelli": [
+    {
+        "id": "benelli_750_sei_1974",
+        "brand": "Benelli",
+        "model": "750 Sei",
+        "year": 1974,
+        "status": "Discontinued",
+        "tags": ["Classic", "Historic", "Inline-6", "Exotic"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Benelli_750_Sei_-_1974.jpg",
+        "history": "The Benelli 750 Sei was a landmark motorcycle, being the first production bike with a six-cylinder engine. Designed under Alejandro de Tomaso's ownership, its engine was based on the Honda CB500 Four with two extra cylinders. Its unique 'six-into-six' exhaust and engine note made it an instant, albeit expensive, icon.",
+        "specs": {
+            "engine": "747cc air-cooled, SOHC inline-6",
+            "horsepower": 76.0,
+            "torque": 55,
+            "mileage_kmpl": 12,
+            "top_speed": 200,
+            "weight": 235,
+            "cc": 747,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Metallic Green"]
+    },
+    {
+        "id": "benelli_tornado_tre_900_2003",
+        "brand": "Benelli",
+        "model": "Tornado Tre 900",
+        "year": 2003,
+        "status": "Discontinued",
+        "tags": ["Superbike", "Inline-3", "Exotic", "Merloni Era"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/df/Benelli_Tornado_Tre_900.jpg",
+        "history": "The Tornado Tre 900 was Benelli's dramatic return to the superbike world in the early 2000s. It featured a powerful three-cylinder engine and a radical design, most famous for its distinctive yellow cooling fans located under the tail section to draw air through a rear-mounted radiator.",
+        "specs": {
+            "engine": "898cc liquid-cooled, DOHC inline-3",
+            "horsepower": 140.0,
+            "torque": 100,
+            "mileage_kmpl": 14,
+            "top_speed": 265,
+            "weight": 198,
+            "cc": 898,
+            "price_original_inr": null
+        },
+        "color_variants": ["Green/Silver", "Red/Silver"]
+    },
+    {
+        "id": "benelli_leoncino_500_2018",
+        "brand": "Benelli",
+        "model": "Leoncino 500",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["Scrambler", "Modern Classic", "Parallel-Twin"],
+        "imageURL": "https://media.benelli.com/media/filer_public/a3/93/a393c5d6-8367-4581-9b6d-a9b0c2a29774/leoncino_red_low_res.png",
+        "history": "Reviving another historic name, the modern Leoncino ('Lion Cub') is a stylish and accessible scrambler. It has been a major success for Benelli under Qianjiang ownership, blending Italian design with a reliable 500cc parallel-twin engine, and is identifiable by the small lion statue on its front fender.",
+        "specs": {
+            "engine": "500cc liquid-cooled, DOHC parallel-twin",
+            "horsepower": 47.6,
+            "torque": 46,
+            "mileage_kmpl": 25,
+            "top_speed": 160,
+            "weight": 207,
+            "cc": 500,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Matte Grey", "Black", "Green"]
+    },
+    {
+        "id": "benelli_trk_502_x_2018",
+        "brand": "Benelli",
+        "model": "TRK 502 X",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["Adventure", "Touring", "Middleweight", "Off-Road Capable"],
+        "imageURL": "https://media.benelli.com/media/filer_public/30/14/3014c4da-f865-4d6d-8ac4-536965be1b8a/trk_502_x_my24_white.png",
+        "history": "The TRK 502 X is a key model in Benelli's modern resurgence, becoming a best-seller in several countries. It offers the look and feel of a large-capacity adventure bike at a fraction of the cost. The 'X' version is more off-road focused with spoked wheels and a 19-inch front.",
+        "specs": {
+            "engine": "500cc liquid-cooled, DOHC parallel-twin",
+            "horsepower": 47.6,
+            "torque": 46,
+            "mileage_kmpl": 25,
+            "top_speed": 160,
+            "weight": 235,
+            "cc": 500,
+            "price_original_inr": null
+        },
+        "color_variants": ["White", "Yellow", "Grey", "Blue"]
+    }
+  ],
+  "Beta": [
+    {
+        "id": "beta_rr300_racing_2022",
+        "brand": "Beta",
+        "model": "RR 300 Racing",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Enduro", "2-Stroke", "Race Bike", "Off-Road"],
+        "imageURL": "https://betamotor.com/wp-content/uploads/2021/09/01_RR-Racing-2T_300_DX_MY22.jpg",
+        "history": "The Beta RR 300 Racing is a top-tier two-stroke enduro race machine. It's celebrated for its tractable, powerful engine with a counter-balancer to reduce vibrations, and the 'Racing' version comes equipped with upgraded KYB suspension and other race-ready components straight from the factory.",
+        "specs": {
+            "engine": "292.6cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 103.5,
+            "cc": 293,
+            "price_original_inr": null
+        },
+        "color_variants": ["Racing Red/Blue"]
+    },
+    {
+        "id": "beta_evo_300_factory_2022",
+        "brand": "Beta",
+        "model": "Evo 300 Factory",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Trials", "2-Stroke", "Competition"],
+        "imageURL": "https://betamotor.com/wp-content/uploads/2022/01/01_EVO-Factory-2T_300_DX_MY22.jpg",
+        "history": "The Evo Factory is Beta's premier trials competition bike. It is an extremely lightweight and specialized machine designed for maximum control and agility. The Factory version includes numerous upgrades over the standard Evo, such as a magnesium crankcase, titanium exhaust, and high-end suspension components.",
+        "specs": {
+            "engine": "296.5cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 66,
+            "cc": 297,
+            "price_original_inr": null
+        },
+        "color_variants": ["Factory Red/Blue/White"]
+    },
+    {
+        "id": "beta_alp_4_0_2018",
+        "brand": "Beta",
+        "model": "Alp 4.0",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["Dual Sport", "Trail", "Beginner", "Thumper"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Beta%20Alp%204.0%2018.jpg",
+        "history": "The Beta Alp 4.0 is a versatile and user-friendly trail bike. It uses a reliable and simple air-cooled engine from Suzuki (based on the DR350), making it easy to maintain. Its low seat height and smooth power delivery make it an excellent choice for new riders or for casual trail exploration.",
+        "specs": {
+            "engine": "349cc air/oil-cooled, SOHC 4-stroke single-cylinder",
+            "horsepower": 27.0,
+            "torque": 28,
+            "mileage_kmpl": 25,
+            "top_speed": 130,
+            "weight": 133,
+            "cc": 349,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "White"]
+    }
+  ],
+  "Big Dog": [
+    {
+        "id": "bigdog_k9_2008",
+        "brand": "Big Dog",
+        "model": "K-9",
+        "year": 2008,
+        "status": "Discontinued",
+        "tags": ["Chopper", "Custom", "V-Twin", "Pro-Street"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Big%20Dog%20K-9%2008.jpg",
+        "history": "The Big Dog K-9 was one of the brand's flagship models and a quintessential example of the pro-street chopper boom of the 2000s. It was defined by its long, stretched-out frame, massive rear tire (often 300mm), and a huge S&S V-twin engine, offering dramatic styling straight from the factory.",
+        "specs": {
+            "engine": "1917cc S&S Super-V air-cooled, 45° V-twin",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": 12,
+            "top_speed": null,
+            "weight": 319,
+            "cc": 1917,
+            "price_original_inr": null
+        },
+        "color_variants": ["Custom Paint Schemes"]
+    }
+  ],
+  "Bimota": [
+    {
+        "id": "bimota_sb6_1994",
+        "brand": "Bimota",
+        "model": "SB6",
+        "year": 1994,
+        "status": "Discontinued",
+        "tags": ["Superbike", "Exotic", "Limited Production", "Inline-4"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Bimota_SB6_1995.jpg",
+        "history": "The Bimota SB6 is a prime example of the company's philosophy: take a powerful Japanese engine (in this case, the Suzuki GSX-R1100) and wrap it in a superior, lightweight, and exquisitely crafted Italian chassis. The result was a bike with incredible handling that far surpassed the original donor bike.",
+        "specs": {
+            "engine": "1074cc liquid-cooled, DOHC inline-4",
+            "horsepower": 156.0,
+            "torque": 118,
+            "mileage_kmpl": 12,
+            "top_speed": 280,
+            "weight": 189,
+            "cc": 1074,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red/White", "Yellow/Blue"]
+    },
+    {
+        "id": "bimota_tesi_h2_2021",
+        "brand": "Bimota",
+        "model": "Tesi H2",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Hyperbike", "Exotic", "Supercharged", "Hub-Center Steering"],
+        "imageURL": "https://www.bimota.it/wp-content/uploads/2020/07/TESI_H2_01.jpg",
+        "history": "The Tesi H2 marks Bimota's revival under Kawasaki ownership. It combines Bimota's signature hub-center steering Tesi chassis with the monstrous supercharged engine from the Kawasaki Ninja H2. The result is a technological masterpiece with radical engineering and brutal performance.",
+        "specs": {
+            "engine": "998cc liquid-cooled, supercharged DOHC inline-4",
+            "horsepower": 231.0,
+            "torque": 141,
+            "mileage_kmpl": null,
+            "top_speed": 299,
+            "weight": 207,
+            "cc": 998,
+            "price_original_inr": null
+        },
+        "color_variants": ["Carbon/Red/White"]
+    },
+    {
+        "id": "bimota_v_due_500_1997",
+        "brand": "Bimota",
+        "model": "V Due 500",
+        "year": 1997,
+        "status": "Discontinued",
+        "tags": ["Sportbike", "2-Stroke", "Exotic", "GP Replica"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/bimota_v-due_98.jpg",
+        "history": "The V Due was Bimota's ambitious attempt to create a road-legal 500cc GP-style bike with its own fuel-injected two-stroke engine. While a beautiful concept, it was plagued with engine problems, leading to a recall and ultimately the company's first bankruptcy. It remains a fascinating but flawed piece of motorcycle history.",
+        "specs": {
+            "engine": "499cc liquid-cooled, 2-stroke 90° V-twin",
+            "horsepower": 110.0,
+            "torque": 90,
+            "mileage_kmpl": null,
+            "top_speed": 260,
+            "weight": 160,
+            "cc": 499,
+            "price_original_inr": null
+        },
+        "color_variants": ["Italian Tricolore"]
+    }
+  ],
+  "BMW": [
+    {
+        "id": "bmw_r1250gs_adventure_2021",
+        "brand": "BMW",
+        "model": "R 1250 GS Adventure",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Adventure", "Touring", "Boxer", "Iconic"],
+        "imageURL": "https://www.bmw-motorrad.in/content/dam/bmw/marketIN/bmw-motorrad_in/images/bikes/adventure/r1250gs-adv/gs-a-ice-grey-0.jpg.asset.1627993074495.jpg",
+        "history": "The GS is the quintessential large-capacity adventure bike, a segment it essentially created. The R 1250 GS Adventure is the ultimate globetrotter, featuring a massive fuel tank, long-travel suspension, and the powerful ShiftCam boxer engine, making it capable of crossing continents with ease.",
+        "specs": {
+            "engine": "1254cc air/liquid-cooled, ShiftCam Boxer twin",
+            "horsepower": 136.0,
+            "torque": 143,
+            "mileage_kmpl": 21,
+            "top_speed": 215,
+            "weight": 268,
+            "cc": 1254,
+            "price_original_inr": 2250000
+        },
+        "color_variants": ["Ice Grey", "Style Rallye", "Style Triple Black"]
+    },
+    {
+        "id": "bmw_s1000rr_2020",
+        "brand": "BMW",
+        "model": "S 1000 RR",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["Superbike", "Inline-4", "Track Focused", "Technology"],
+        "imageURL": "https://www.bmw-motorrad.in/content/dam/bmw/marketIN/bmw-motorrad_in/images/bikes/sport/s1000rr/S1000RR_card.jpg/S1000RR_card.jpg.asset.1578385202879.jpg",
+        "history": "When the S 1000 RR debuted in 2009, it completely reset the superbike class with its immense power and advanced electronics. The latest generation continues this legacy with a lighter chassis, ShiftCam engine technology, and one of the most sophisticated electronics packages on the market.",
+        "specs": {
+            "engine": "999cc liquid-cooled, ShiftCam inline-4",
+            "horsepower": 207.0,
+            "torque": 113,
+            "mileage_kmpl": 15,
+            "top_speed": 299,
+            "weight": 197,
+            "cc": 999,
+            "price_original_inr": 2025000
+        },
+        "color_variants": ["Lightwhite/Racing Blue/Racing Red", "Black Storm Metallic", "Passion"]
+    },
+    {
+        "id": "bmw_r18_2020",
+        "brand": "BMW",
+        "model": "R 18",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["Cruiser", "Heritage", "Boxer", "Big Bore"],
+        "imageURL": "https://www.bmw-motorrad.in/content/dam/bmw/marketIN/bmw-motorrad_in/images/bikes/heritage/r18/r18-first-edition-0.jpg.asset.1598952409748.jpg",
+        "history": "The R 18 is BMW's bold entry into the traditional cruiser market. It is dominated by the 'Big Boxer', the largest displacement boxer engine BMW has ever produced. The bike features heritage styling inspired by the classic 1936 BMW R 5, with an exposed shaft drive and timeless design.",
+        "specs": {
+            "engine": "1802cc air/oil-cooled, Boxer twin",
+            "horsepower": 91.0,
+            "torque": 158,
+            "mileage_kmpl": 18,
+            "top_speed": 180,
+            "weight": 345,
+            "cc": 1802,
+            "price_original_inr": 1990000
+        },
+        "color_variants": ["Black Storm Metallic", "Manhattan Metallic Matte", "Option 719 Galaxy Dust"]
+    },
+    {
+        "id": "bmw_r90s_1973",
+        "brand": "BMW",
+        "model": "R 90 S",
+        "year": 1973,
+        "status": "Discontinued",
+        "tags": ["Classic", "Historic", "Sport Touring", "Boxer"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/BMW_R90S_silver_smoke.jpg",
+        "history": "The R 90 S is considered by many to be the first superbike from BMW. It was a high-performance machine for its day, featuring Dell'Orto pumper carbs, a sporty 'bikini' fairing, and a stunning two-tone 'Smoke Black' or 'Daytona Orange' paint job. It was a true icon of 1970s style and performance.",
+        "specs": {
+            "engine": "898cc air-cooled, 'Airhead' Boxer twin",
+            "horsepower": 67.0,
+            "torque": 76,
+            "mileage_kmpl": 17,
+            "top_speed": 200,
+            "weight": 215,
+            "cc": 898,
+            "price_original_inr": null
+        },
+        "color_variants": ["Daytona Orange", "Smoke Black"]
+    }
+  ],
+  "Borile": [
+    {
+        "id": "borile_b500cr_2012",
+        "brand": "Borile",
+        "model": "B 500 CR",
+        "year": 2012,
+        "status": "Limited Production",
+        "tags": ["Cafe Racer", "Retro", "Thumper", "Exotic"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Borile%20B%20500%20CR%2012.jpg",
+        "history": "Borile is a small Italian manufacturer specializing in hand-built, retro-styled motorcycles. The B 500 CR is a classic cafe racer, featuring a beautiful aluminum frame and a custom-built engine with desmodromic valve actuation, blending old-school aesthetics with boutique engineering.",
+        "specs": {
+            "engine": "487cc air-cooled, desmodromic single-cylinder",
+            "horsepower": 60.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 129,
+            "cc": 487,
+            "price_original_inr": null
+        },
+        "color_variants": ["Silver/Black"]
+    }
+  ],
+  "Bourget": [
+    {
+        "id": "bourget_python_2008",
+        "brand": "Bourget",
+        "model": "Python",
+        "year": 2008,
+        "status": "Discontinued",
+        "tags": ["Chopper", "Custom", "V-Twin", "Exotic"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Bourget%20Python%20330%20Super%20Sport.jpg",
+        "history": "Bourget's Bike Works is known for its high-end, radically styled custom motorcycles. The Python was a flagship model, often featuring an incredibly wide 330mm rear tire, elaborate custom paint, and a massive polished V-twin engine, representing the peak of the custom chopper era.",
+        "specs": {
+            "engine": "2064cc S&S air-cooled, 45° V-twin",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 358,
+            "cc": 2064,
+            "price_original_inr": null
+        },
+        "color_variants": ["Custom Paint Schemes"]
+    }
+  ],
+  "Brammo": [
+    {
+        "id": "brammo_empulse_r_2013",
+        "brand": "Brammo",
+        "model": "Empulse R",
+        "year": 2013,
+        "status": "Discontinued",
+        "tags": ["Electric", "Sport Naked", "Pioneer"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Brammo_Empulse_R_%288009228943%29.jpg",
+        "history": "Brammo was a pioneer in high-performance electric motorcycles. The Empulse R was revolutionary for being the first production electric motorcycle with a six-speed gearbox, providing a more traditional riding feel. Its assets were later purchased by Polaris and integrated into the Victory brand.",
+        "specs": {
+            "engine": "Permanent Magnet AC motor",
+            "horsepower": 54.0,
+            "torque": 90,
+            "mileage_kmpl": 195,
+            "top_speed": 177,
+            "weight": 213,
+            "cc": 0,
+            "price_original_inr": null
+        },
+        "color_variants": ["True Blood Red", "Eclipsed Black"]
+    }
+  ],
+  "Britten": [
+    {
+        "id": "britten_v1000_1991",
+        "brand": "Britten",
+        "model": "V1000",
+        "year": 1991,
+        "status": "Limited Production (10 units)",
+        "tags": ["Race Bike", "Iconic", "Legendary", "Hand-Built", "V-Twin"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Britten_V1000_at_Barber.jpg",
+        "history": "The Britten V1000 is a motorcycle legend, designed and hand-built by John Britten in his New Zealand workshop. It was radically advanced for its time, featuring a frameless chassis where the engine was a stressed member, carbon fiber everything, and a Hossack-style front suspension. It famously competed against and beat factory superbikes.",
+        "specs": {
+            "engine": "999cc liquid-cooled, DOHC 60° V-twin",
+            "horsepower": 166.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 303,
+            "weight": 138,
+            "cc": 999,
+            "price_original_inr": null
+        },
+        "color_variants": ["Pink/Blue"]
+    }
+  ],
+  "Brough Superior": [
+    {
+        "id": "broughsuperior_ss100_1925",
+        "brand": "Brough Superior",
+        "model": "SS100",
+        "year": 1925,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "V-Twin", "Luxury", "Iconic"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Brough_Superior_SS100_1926.jpg",
+        "history": "Dubbed 'the Rolls-Royce of Motorcycles,' the Brough Superior SS100 was the pinnacle of performance and quality in its era. Each bike was guaranteed to have been timed at over 100 mph. Owned by figures like T.E. Lawrence ('Lawrence of Arabia'), it is one of the most desirable and valuable historic motorcycles in the world.",
+        "specs": {
+            "engine": "998cc air-cooled, OHV 50° V-twin (JAP or Matchless)",
+            "horsepower": 45.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 161,
+            "weight": 180,
+            "cc": 998,
+            "price_original_inr": null
+        },
+        "color_variants": ["Polished Alloy/Black"]
+    },
+    {
+        "id": "broughsuperior_ss100_2020",
+        "brand": "Brough Superior",
+        "model": "SS100 (Modern)",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["Modern Classic", "Luxury", "V-Twin", "Exotic"],
+        "imageURL": "https://www.broughsuperior-motorcycles.com/img/og/ss100.jpg",
+        "history": "The revived Brough Superior brand has brought back the legendary SS100 as a modern luxury motorcycle. It combines timeless design cues from the original with state-of-the-art engineering, including a proprietary V-twin engine, a unique Fior-style front suspension, and exquisite detailing with premium materials.",
+        "specs": {
+            "engine": "997cc liquid-cooled, DOHC 88° V-twin",
+            "horsepower": 102.0,
+            "torque": 87,
+            "mileage_kmpl": 18,
+            "top_speed": 220,
+            "weight": 186,
+            "cc": 997,
+            "price_original_inr": null
+        },
+        "color_variants": ["Traditional Black", "Titanium", "Black/Gold"]
+    }
+  ],
+  "BSA": [
+    {
+        "id": "bsa_gold_star_dbd34_1956",
+        "brand": "BSA",
+        "model": "Gold Star DBD34",
+        "year": 1956,
+        "status": "Discontinued",
+        "tags": ["Classic", "Historic", "Cafe Racer", "Thumper", "Iconic"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/BSA_Gold_Star_DBD34.jpg",
+        "history": "The BSA Gold Star, particularly the DBD34 Clubman's version, is one of the most famous motorcycles in British history. A potent, big single-cylinder machine, it was a dominant force in racing and became the definitive 'cafe racer' of the 1950s and 60s, known for its performance, sound, and style.",
+        "specs": {
+            "engine": "499cc air-cooled, OHV single-cylinder",
+            "horsepower": 42.0,
+            "torque": null,
+            "mileage_kmpl": 20,
+            "top_speed": 177,
+            "weight": 170,
+            "cc": 499,
+            "price_original_inr": null
+        },
+        "color_variants": ["Silver/Chrome"]
+    },
+    {
+        "id": "bsa_a65_lightning_1965",
+        "brand": "BSA",
+        "model": "A65 Lightning",
+        "year": 1965,
+        "status": "Discontinued",
+        "tags": ["Classic", "Historic", "Roadster", "Parallel-Twin"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c5/BSA_A65_Lightning.jpg",
+        "history": "The A65 Lightning was BSA's primary sporting twin and a direct competitor to the Triumph Bonneville. It gained international fame after being featured (in a modified, armed form) in the 1965 James Bond film 'Thunderball'. It was a handsome and fast British roadster of the 1960s.",
+        "specs": {
+            "engine": "654cc air-cooled, OHV parallel-twin",
+            "horsepower": 52.0,
+            "torque": null,
+            "mileage_kmpl": 18,
+            "top_speed": 175,
+            "weight": 179,
+            "cc": 654,
+            "price_original_inr": null
+        },
+        "color_variants": ["Candy Red", "Metallic Blue"]
+    },
+    {
+        "id": "bsa_gold_star_650_2022",
+        "brand": "BSA",
+        "model": "Gold Star 650",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Modern Classic", "Retro", "Thumper", "Single-Cylinder"],
+        "imageURL": "https://www.bsacompany.co.uk/wp-content/uploads/2022/10/Maroon-3-4-Left-no-BG.png",
+        "history": "Revived under the ownership of India's Mahindra Group, the new BSA Gold Star 650 is a tribute to the original icon. It captures the classic British single look with modern engineering, featuring a liquid-cooled DOHC 652cc engine (based on the Rotax unit from the BMW F650) designed to be both reliable and characterful.",
+        "specs": {
+            "engine": "652cc liquid-cooled, DOHC 4-valve single-cylinder",
+            "horsepower": 45.0,
+            "torque": 55,
+            "mileage_kmpl": 25,
+            "top_speed": 166,
+            "weight": 213,
+            "cc": 652,
+            "price_original_inr": null
+        },
+        "color_variants": ["Insignia Red", "Highland Green", "Midnight Black", "Silver Sheen"]
+    }
+  ],
+  "Buell": [
+    {
+        "id": "buell_s1_lightning_1996",
+        "brand": "Buell",
+        "model": "S1 Lightning",
+        "year": 1996,
+        "status": "Discontinued",
+        "tags": ["Streetfighter", "Naked", "V-Twin", "Tube Frame"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Buell_S1_Lightning.jpg",
+        "history": "The S1 Lightning was a raw, minimalist streetfighter that defined the early Buell ethos. It stripped a sportbike down to its bare essentials, featuring a Harley-Davidson Sportster engine, a trellis frame, and aggressive, hooligan styling. It was a radical departure from traditional American motorcycles.",
+        "specs": {
+            "engine": "1203cc air-cooled, OHV 45° V-twin",
+            "horsepower": 86.0,
+            "torque": 110,
+            "mileage_kmpl": 16,
+            "top_speed": 210,
+            "weight": 193,
+            "cc": 1203,
+            "price_original_inr": null
+        },
+        "color_variants": ["White/Blue", "Red/Blue", "Yellow/Blue"]
+    },
+    {
+        "id": "buell_xb12s_lightning_2004",
+        "brand": "Buell",
+        "model": "XB12S Lightning",
+        "year": 2004,
+        "status": "Discontinued",
+        "tags": ["Streetfighter", "Naked", "V-Twin", "XB Frame"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/11/2007_Buell_Lightning_XB12s.jpg",
+        "history": "The XB series brought Erik Buell's 'Trilogy of Tech' to the forefront: mass centralization, low unsprung weight, and frame rigidity. The XB12S Lightning featured a fuel-in-frame design, oil-in-swingarm, and a perimeter front brake rotor. It was a compact, torque-rich, and incredibly agile streetfighter.",
+        "specs": {
+            "engine": "1203cc air-cooled, OHV 45° V-twin",
+            "horsepower": 103.0,
+            "torque": 114,
+            "mileage_kmpl": 18,
+            "top_speed": 220,
+            "weight": 179,
+            "cc": 1203,
+            "price_original_inr": null
+        },
+        "color_variants": ["Mandarin Orange", "Midnight Black", "Thrust Blue"]
+    },
+    {
+        "id": "buell_1125r_2008",
+        "brand": "Buell",
+        "model": "1125R",
+        "year": 2008,
+        "status": "Discontinued",
+        "tags": ["Superbike", "V-Twin", "Liquid-Cooled"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/23/Buell_1125R_-_Flickr_-_exfordy.jpg",
+        "history": "The 1125R was a major departure for Buell, as it was the first model to use a liquid-cooled engine, the Rotax Helicon. It was a true superbike aimed at competing with Japanese and European rivals, but its controversial styling and the unfortunate timing of the 2008 financial crisis led to a short production run before Harley-Davidson closed the brand.",
+        "specs": {
+            "engine": "1125cc liquid-cooled, DOHC 72° V-twin",
+            "horsepower": 146.0,
+            "torque": 111,
+            "mileage_kmpl": 15,
+            "top_speed": 260,
+            "weight": 170,
+            "cc": 1125,
+            "price_original_inr": null
+        },
+        "color_variants": ["Midnight Black"]
+    }
+  ],
+  "Bultaco": [
+    {
+        "id": "bultaco_sherpa_t_1965",
+        "brand": "Bultaco",
+        "model": "Sherpa T",
+        "year": 1965,
+        "status": "Discontinued",
+        "tags": ["Trials", "Historic", "2-Stroke", "Game Changer"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/Bultaco_Sherpa_T_350_Mod_199_Bj_1978.JPG",
+        "history": "The Bultaco Sherpa T, developed with legendary rider Sammy Miller, revolutionized the sport of motorcycle trials. Its lightweight design and powerful two-stroke engine made the heavy British four-strokes that previously dominated the sport obsolete overnight. It set the template for all modern trials bikes.",
+        "specs": {
+            "engine": "244cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 19.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 92,
+            "cc": 244,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red/Silver"]
+    },
+    {
+        "id": "bultaco_pursang_1974",
+        "brand": "Bultaco",
+        "model": "Pursang",
+        "year": 1974,
+        "status": "Discontinued",
+        "tags": ["Motocross", "Historic", "2-Stroke"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bultaco_Pursang_250_MK7_-_1974.jpg",
+        "history": "The Pursang was Bultaco's motocross weapon, a direct competitor to bikes from Husqvarna and Maico. It was known for its strong engine, excellent handling, and stylish looks. The Pursang was a very popular choice for motocross racers in the USA and Europe during the 1970s.",
+        "specs": {
+            "engine": "244cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 34.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 98,
+            "cc": 244,
+            "price_original_inr": null
+        },
+        "color_variants": ["Blue/Silver", "Red/Yellow"]
+    },
+    {
+        "id": "bultaco_metralla_mk2_1966",
+        "brand": "Bultaco",
+        "model": "Metralla Mk2",
+        "year": 1966,
+        "status": "Discontinued",
+        "tags": ["Roadster", "Sportbike", "2-Stroke", "Historic"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/Bultaco_Metralla_Mk2_250cc_1967.JPG",
+        "history": "The Metralla Mk2 was, for a time, the fastest production 250cc motorcycle in the world. It was a high-performance two-stroke road bike that could exceed 100 mph, a remarkable feat for its displacement in the 1960s. It is a highly sought-after classic today for its performance and style.",
+        "specs": {
+            "engine": "244cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 27.0,
+            "torque": null,
+            "mileage_kmpl": 18,
+            "top_speed": 164,
+            "weight": 113,
+            "cc": 244,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black/Silver"]
+    }
+  ],
+  "Cagiva": [
+    {
+        "id": "cagiva_elefant_900ie_1990",
+        "brand": "Cagiva",
+        "model": "Elefant 900ie",
+        "year": 1990,
+        "status": "Discontinued",
+        "tags": ["Adventure", "Dakar Rally", "V-Twin", "Iconic"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cagiva_elefant_lucky_explorer_900_cm3_1990.JPG",
+        "history": "The Cagiva Elefant, especially in its 'Lucky Explorer' livery, is a legend of the Dakar Rally, winning the event in 1990 and 1994. The road-going version used a potent Ducati V-twin engine in a robust off-road chassis, making it one of the most desirable and capable adventure bikes of its era.",
+        "specs": {
+            "engine": "904cc air/oil-cooled, desmodromic L-twin",
+            "horsepower": 73.0,
+            "torque": 78,
+            "mileage_kmpl": 16,
+            "top_speed": 195,
+            "weight": 205,
+            "cc": 904,
+            "price_original_inr": null
+        },
+        "color_variants": ["Lucky Explorer (White/Red/Green)"]
+    },
+    {
+        "id": "cagiva_mito_125_ev_1994",
+        "brand": "Cagiva",
+        "model": "Mito 125 EV",
+        "year": 1994,
+        "status": "Discontinued",
+        "tags": ["Sportbike", "125cc", "2-Stroke", "Race Replica"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cagiva_Mito_125.JPG",
+        "history": "The Cagiva Mito 125 is an icon of the 125cc sportbike class. The 'EV' (Evoluzione) model was famously styled by Massimo Tamburini to look like a miniature Ducati 916. Its high-revving two-stroke engine and advanced chassis gave teenage riders in Europe a genuine taste of Grand Prix performance.",
+        "specs": {
+            "engine": "124.6cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": 34.0,
+            "torque": 23,
+            "mileage_kmpl": 18,
+            "top_speed": 170,
+            "weight": 129,
+            "cc": 125,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Yellow", "Black"]
+    },
+    {
+        "id": "cagiva_raptor_1000_2000",
+        "brand": "Cagiva",
+        "model": "Raptor 1000",
+        "year": 2000,
+        "status": "Discontinued",
+        "tags": ["Naked", "Streetfighter", "V-Twin", "Italian"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Cagiva_Raptor_1000_-_2000.jpg",
+        "history": "Designed by Miguel Galluzzi, the same designer as the Ducati Monster, the Cagiva Raptor was a muscular naked bike. It used the powerful V-twin engine from the Suzuki TL1000, known for its massive torque, and housed it in a distinctive steel trellis frame, creating a potent and charismatic Italian streetfighter.",
+        "specs": {
+            "engine": "996cc liquid-cooled, DOHC 90° V-twin",
+            "horsepower": 105.0,
+            "torque": 98,
+            "mileage_kmpl": 14,
+            "top_speed": 230,
+            "weight": 192,
+            "cc": 996,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Yellow", "Silver", "Black"]
+    }
+  ],
+  "Can-Am": [
+    {
+        "id": "canam_mx3_1977",
+        "brand": "Can-Am",
+        "model": "MX-3",
+        "year": 1977,
+        "status": "Discontinued",
+        "tags": ["Motocross", "Historic", "2-Stroke", "Rotary Valve"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Can-Am%20MX-3%20250%2077.jpg",
+        "history": "In the 1970s, Can-Am (part of Bombardier) produced highly competitive motocross and enduro bikes. The MX-3 featured a powerful Rotax rotary-valve two-stroke engine that gave it a performance edge. Can-Am bikes were instantly recognizable by their black and orange color scheme and won many races in their heyday.",
+        "specs": {
+            "engine": "247cc air-cooled, rotary-valve 2-stroke single-cylinder",
+            "horsepower": 36.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 101,
+            "cc": 247,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black/Orange"]
+    },
+    {
+        "id": "canam_spyder_f3_2018",
+        "brand": "Can-Am",
+        "model": "Spyder F3",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["3-Wheeler", "Cruiser", "Touring", "Modern"],
+        "imageURL": "https://can-am.brp.com/on-road/us/en/models/3-wheel-vehicles/spyder-f3/_jcr_content/root/responsivegrid/background_image_1235123019.coreimg.80.1920.jpeg/1660681328452/spyder-f3-banner.jpeg",
+        "history": "The Can-Am Spyder re-introduced the brand to the on-road world with its unique Y-configuration (two wheels in front, one in back). The F3 model offers a more aggressive, muscle-cruiser riding position compared to the touring-focused RT, powered by a strong three-cylinder Rotax engine.",
+        "specs": {
+            "engine": "1330cc liquid-cooled, DOHC inline-3",
+            "horsepower": 115.0,
+            "torque": 130,
+            "mileage_kmpl": 16,
+            "top_speed": 180,
+            "weight": 408,
+            "cc": 1330,
+            "price_original_inr": null
+        },
+        "color_variants": ["Steel Black Metallic", "Monolith Black Satin", "Pearl White"]
+    },
+    {
+        "id": "canam_ryker_rally_2020",
+        "brand": "Can-Am",
+        "model": "Ryker Rally",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["3-Wheeler", "Fun", "Modern", "Automatic"],
+        "imageURL": "https://can-am.brp.com/on-road/us/en/models/3-wheel-vehicles/ryker/_jcr_content/root/responsivegrid/background_image_copy.coreimg.80.1920.jpeg/1660681023719/ryker-banner.jpeg",
+        "history": "The Ryker was introduced as a more accessible and affordable entry into the Can-Am 3-wheeler lineup. It features a twist-and-go automatic transmission and a lower price point. The Rally version is equipped for light all-road use with reinforced wheels, all-road tires, and upgraded suspension.",
+        "specs": {
+            "engine": "900cc liquid-cooled, DOHC inline-3",
+            "horsepower": 82.0,
+            "torque": 79,
+            "mileage_kmpl": 18,
+            "top_speed": 145,
+            "weight": 291,
+            "cc": 900,
+            "price_original_inr": null
+        },
+        "color_variants": ["Customizable Panels"]
+    }
+  ],
+  "CCM": [
+    {
+        "id": "ccm_spitfire_scrambler_2018",
+        "brand": "CCM",
+        "model": "Spitfire Scrambler",
+        "year": 2018,
+        "status": "In Production",
+        "tags": ["Scrambler", "Modern Classic", "Hand-Built", "Thumper"],
+        "imageURL": "https://www.ccm-motorcycles.com/wp-content/uploads/2021/11/Scrambler-Website-Front.png",
+        "history": "The CCM Spitfire platform has been a huge success for the boutique British manufacturer. Based around a stunning hand-TIG-welded steel trellis frame and a Husqvarna-derived single-cylinder engine, the Scrambler version features high-mounted exhausts, spoked wheels, and upright ergonomics.",
+        "specs": {
+            "engine": "600cc liquid-cooled, DOHC 4-stroke single-cylinder",
+            "horsepower": 55.0,
+            "torque": 58,
+            "mileage_kmpl": 20,
+            "top_speed": 160,
+            "weight": 145,
+            "cc": 600,
+            "price_original_inr": null
+        },
+        "color_variants": ["Matte Black", "Green", "White"]
+    },
+    {
+        "id": "ccm_gp450_adventure_2015",
+        "brand": "CCM",
+        "model": "GP450 Adventure",
+        "year": 2015,
+        "status": "Discontinued",
+        "tags": ["Adventure", "Lightweight", "Off-Road", "Thumper"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/CCM%20GP450%20Adventure%2015.jpg",
+        "history": "The GP450 was an attempt to create the perfect lightweight adventure bike. It used a detuned BMW G450X enduro engine in a unique bonded aluminum frame. It was praised for its incredible off-road capability and light weight, but the company shifted focus to the more successful Spitfire platform.",
+        "specs": {
+            "engine": "449cc liquid-cooled, DOHC 4-stroke single-cylinder",
+            "horsepower": 40.0,
+            "torque": 43,
+            "mileage_kmpl": 22,
+            "top_speed": 145,
+            "weight": 125,
+            "cc": 449,
+            "price_original_inr": null
+        },
+        "color_variants": ["White/Red/Blue"]
+    }
+  ],
+  "CFMoto": [
+    {
+        "id": "cfmoto_450ss_2023",
+        "brand": "CFMoto",
+        "model": "450SS",
+        "year": 2023,
+        "status": "In Production",
+        "tags": ["Sportbike", "Lightweight", "Parallel-Twin", "Modern"],
+        "imageURL": "https://storage.cfmoto.com/media/0lpfxf0i/450ss-nebula-black.png",
+        "history": "The 450SS (also known as 450SR) represents a major step forward for CFMoto, seriously challenging established Japanese rivals in the lightweight sportbike class. It features an all-new parallel-twin engine with a 270-degree crank, aggressive styling with aerodynamic winglets, and high-quality components like Brembo brakes.",
+        "specs": {
+            "engine": "449cc liquid-cooled, DOHC parallel-twin",
+            "horsepower": 50.0,
+            "torque": 39,
+            "mileage_kmpl": 22,
+            "top_speed": 190,
+            "weight": 168,
+            "cc": 449,
+            "price_original_inr": null
+        },
+        "color_variants": ["Nebula Black", "Zircon Black"]
+    },
+    {
+        "id": "cfmoto_800mt_touring_2022",
+        "brand": "CFMoto",
+        "model": "800MT Touring",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Adventure", "Touring", "Middleweight", "Parallel-Twin"],
+        "imageURL": "https://storage.cfmoto.com/media/u0k525gy/800mt-explore-gem-blue.png",
+        "history": "The 800MT is a product of CFMoto's partnership with KTM, as it uses the potent 799cc LC8c parallel-twin engine from the KTM 790 Adventure. The Touring model comes fully loaded with spoked wheels, pannier racks, cruise control, and a large TFT display, offering premium adventure features at a competitive price.",
+        "specs": {
+            "engine": "799cc liquid-cooled, DOHC parallel-twin",
+            "horsepower": 95.0,
+            "torque": 77,
+            "mileage_kmpl": 20,
+            "top_speed": 200,
+            "weight": 231,
+            "cc": 799,
+            "price_original_inr": null
+        },
+        "color_variants": ["Twilight Blue", "Starry White"]
+    },
+    {
+        "id": "cfmoto_700clx_heritage_2021",
+        "brand": "CFMoto",
+        "model": "700CL-X Heritage",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Scrambler", "Modern Classic", "Retro", "Parallel-Twin"],
+        "imageURL": "https://storage.cfmoto.com/media/c01t4iuh/700cl-x-heritage-twilight-blue.png",
+        "history": "The 700CL-X line showcases CFMoto's growing design confidence. The Heritage model is a neo-retro scrambler with a distinctive 'X' motif on the headlight and tank. It's powered by a re-worked version of their 650cc engine and comes well-equipped with modern features like ride modes and cruise control.",
+        "specs": {
+            "engine": "693cc liquid-cooled, DOHC parallel-twin",
+            "horsepower": 74.0,
+            "torque": 68,
+            "mileage_kmpl": 20,
+            "top_speed": 180,
+            "weight": 196,
+            "cc": 693,
+            "price_original_inr": null
+        },
+        "color_variants": ["Coal Grey", "Twilight Blue"]
+    }
+  ],
+  "Cleveland CycleWerks": [
+    {
+        "id": "ccw_tha_heist_2012",
+        "brand": "Cleveland CycleWerks",
+        "model": "Tha Heist",
+        "year": 2012,
+        "status": "Discontinued",
+        "tags": ["Bobber", "Custom", "Lightweight", "Single-Cylinder"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Cleveland%20Cyclewerks%20Tha%20Heist.jpg",
+        "history": "Tha Heist was the model that launched Cleveland CycleWerks. It's a lightweight, minimalist hardtail bobber designed in the US and manufactured in China to be an affordable, customizable platform. It uses a simple, air-cooled 250cc engine based on an old Honda design, focusing on style over outright performance.",
+        "specs": {
+            "engine": "229cc air-cooled, 4-stroke single-cylinder",
+            "horsepower": 14.0,
+            "torque": 15,
+            "mileage_kmpl": 30,
+            "top_speed": 110,
+            "weight": 129,
+            "cc": 229,
+            "price_original_inr": null
+        },
+        "color_variants": ["Gloss Black", "Matte Black", "Green"]
+    }
+  ],
+  "Confederate / Curtiss": [
+    {
+        "id": "confederate_p120_fighter_2009",
+        "brand": "Confederate",
+        "model": "P120 Fighter",
+        "year": 2009,
+        "status": "Discontinued",
+        "tags": ["Muscle Bike", "Exotic", "V-Twin", "Art"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Confederate_Motor_P120_Combat_Fighter.jpg",
+        "history": "Confederate Motorcycles were known for their 'art of rebellion' philosophy, creating brutalist, mechanical art. The P120 Fighter embodied this, with a chassis machined entirely from aircraft-grade aluminum, a massive V-twin engine, and a radical design that exposed every mechanical element.",
+        "specs": {
+            "engine": "1966cc air-cooled, 45° V-twin",
+            "horsepower": 160.0,
+            "torque": 183,
+            "mileage_kmpl": null,
+            "top_speed": 270,
+            "weight": 209,
+            "cc": 1966,
+            "price_original_inr": null
+        },
+        "color_variants": ["Raw Aluminum"]
+    },
+    {
+        "id": "curtiss_warhawk_2018",
+        "brand": "Curtiss",
+        "model": "Warhawk",
+        "year": 2018,
+        "status": "Limited Production (35 units)",
+        "tags": ["Muscle Bike", "Exotic", "V-Twin", "Final Edition"],
+        "imageURL": "https://www.curtissmotorcycles.com/s/Warhawk-Profile.jpg",
+        "history": "The Warhawk was the final gasoline-powered motorcycle built before the company rebranded from Confederate to Curtiss and pivoted to electric. Limited to 35 units, it was a farewell to the internal combustion engine, representing the ultimate evolution of their iconic V-twin platform.",
+        "specs": {
+            "engine": "2163cc air/oil-cooled, 56° V-twin",
+            "horsepower": 150.0,
+            "torque": 217,
+            "mileage_kmpl": null,
+            "top_speed": 265,
+            "weight": 256,
+            "cc": 2163,
+            "price_original_inr": null
+        },
+        "color_variants": ["Raw Aluminum"]
+    }
+  ],
+  "Cotton": [
+    {
+        "id": "cotton_telstar_1964",
+        "brand": "Cotton",
+        "model": "Telstar",
+        "year": 1964,
+        "status": "Discontinued",
+        "tags": ["Race Bike", "Classic", "2-Stroke", "Historic"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Cotton%20Telstar%20Racer.JPG",
+        "history": "Cotton was a British manufacturer known for its distinctive triangulated frames. The Telstar was their 250cc road racer, powered by a Villiers Starmaker two-stroke engine. It was a successful and competitive machine in British club racing during the 1960s.",
+        "specs": {
+            "engine": "247cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 25.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 160,
+            "weight": 102,
+            "cc": 247,
+            "price_original_inr": null
+        },
+        "color_variants": ["Blue/Silver"]
+    }
+  ],
+  "Crocker": [
+    {
+        "id": "crocker_big_tank_1937",
+        "brand": "Crocker",
+        "model": "Big Tank",
+        "year": 1937,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "V-Twin", "Performance", "Rare"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6f/1937_Crocker_motorcycle.jpg",
+        "history": "Crocker motorcycles were arguably the finest performance V-twins of the 1930s, more powerful and faster than their Harley or Indian contemporaries. The 'Big Tank' models are exceptionally rare and powerful, hand-built machines that are now among the most valuable and sought-after motorcycles in the world.",
+        "specs": {
+            "engine": "1000cc air-cooled, OHV 45° V-twin",
+            "horsepower": 60.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 177,
+            "weight": 222,
+            "cc": 1000,
+            "price_original_inr": null
+        },
+        "color_variants": ["Various Custom Colors"]
+    }
+  ],
+  "Cushman": [
+    {
+        "id": "cushman_eagle_1959",
+        "brand": "Cushman",
+        "model": "Eagle",
+        "year": 1959,
+        "status": "Discontinued",
+        "tags": ["Scooter", "Historic", "Classic", "American"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cushman_Eagle_Scooter.JPG",
+        "history": "The Cushman Eagle was a very popular scooter in post-war America. Unlike Vespa-style scooters, the Eagle's design mimicked that of a full-size motorcycle with its top-mounted fuel tank and exposed engine, giving it a unique and distinctly American style.",
+        "specs": {
+            "engine": "318cc air-cooled, L-head single-cylinder",
+            "horsepower": 8.0,
+            "torque": null,
+            "mileage_kmpl": 32,
+            "top_speed": 80,
+            "weight": 118,
+            "cc": 318,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Blue", "Black"]
+    }
+  ],
+  "CZ": [
+    {
+        "id": "cz_400_motocross_1972",
+        "brand": "CZ",
+        "model": "400 Motocross",
+        "year": 1972,
+        "status": "Discontinued",
+        "tags": ["Motocross", "Historic", "2-Stroke", "Iconic"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/CZ%20400%2072.jpg",
+        "history": "In the late 60s and early 70s, the Czechoslovakian brand CZ was a dominant force in motocross. Their simple, robust, and powerful two-stroke bikes, recognizable by their red 'coffin' tanks, were notoriously tough and won multiple world championships, becoming legends of the sport.",
+        "specs": {
+            "engine": "380cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 42.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 103,
+            "cc": 380,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red/Silver"]
+    }
+  ],
+  "Daelim": [
+    {
+        "id": "daelim_daystar_125_2010",
+        "brand": "Daelim",
+        "model": "Daystar 125",
+        "year": 2010,
+        "status": "Discontinued",
+        "tags": ["Cruiser", "125cc", "Learner"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Daelim%20Daystar%20125.jpg",
+        "history": "The Daelim Daystar was a popular 125cc cruiser, particularly in Europe, offering the style of a much larger American cruiser in a learner-legal and affordable package. For a 125, it was physically large, making it a comfortable choice for new riders.",
+        "specs": {
+            "engine": "124cc air/oil-cooled, DOHC 4-valve single-cylinder",
+            "horsepower": 13.0,
+            "torque": 10.5,
+            "mileage_kmpl": 30,
+            "top_speed": 110,
+            "weight": 155,
+            "cc": 124,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "Red", "Two-Tone"]
+    }
+  ],
+  "Derbi": [
+    {
+        "id": "derbi_gpr125_racing_2005",
+        "brand": "Derbi",
+        "model": "GPR 125 Racing",
+        "year": 2005,
+        "status": "Discontinued",
+        "tags": ["Sportbike", "125cc", "2-Stroke", "Race Replica"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/derbi_gpr_125_05.jpg",
+        "history": "The Derbi GPR 125 was a direct competitor to the Aprilia RS 125. It was a genuine GP-inspired race replica, featuring a potent two-stroke engine, a stunning aluminum beam frame, radial brakes, and an under-seat exhaust, making it one of the highest-spec 125s of its time.",
+        "specs": {
+            "engine": "124.7cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": 22.0,
+            "torque": null,
+            "mileage_kmpl": 18,
+            "top_speed": 140,
+            "weight": 123,
+            "cc": 125,
+            "price_original_inr": null
+        },
+        "color_variants": ["Racing Red/White", "Black"]
+    }
+  ],
+  "Dnepr": [
+    {
+        "id": "dnepr_mt11_1985",
+        "brand": "Dnepr",
+        "model": "MT-11",
+        "year": 1985,
+        "status": "Discontinued",
+        "tags": ["Sidecar", "Historic", "Classic", "Boxer"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Dnepr_MT-11.jpg",
+        "history": "Dnepr motorcycles, produced in Ukraine, are a direct descendant of the pre-WWII BMW R71 design, similar to Urals. The MT-11 is a classic, rugged sidecar motorcycle, known for its robust construction, boxer engine, and utilitarian purpose. Many models also featured a driven sidecar wheel for off-road use.",
+        "specs": {
+            "engine": "649cc air-cooled, OHV Boxer twin",
+            "horsepower": 32.0,
+            "torque": 47,
+            "mileage_kmpl": 14,
+            "top_speed": 105,
+            "weight": 335,
+            "cc": 649,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "Olive Drab"]
+    }
+  ],
+  "DKW": [
+    {
+        "id": "dkw_rt125_1940",
+        "brand": "DKW",
+        "model": "RT 125",
+        "year": 1940,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "2-Stroke", "Influential"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/DKW_RT-125_1952.jpg",
+        "history": "The DKW RT 125 is one of the most copied motorcycles in history. Its advanced two-stroke engine design was taken as war reparations after WWII and subsequently used as the basis for the BSA Bantam, the Harley-Davidson Hummer, the original Yamaha YA-1, and Russia's Minsk, among others.",
+        "specs": {
+            "engine": "123cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 4.75,
+            "torque": null,
+            "mileage_kmpl": 40,
+            "top_speed": 75,
+            "weight": 70,
+            "cc": 123,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black"]
+    }
+  ],
+  "Douglas": [
+    {
+        "id": "douglas_dragonfly_1955",
+        "brand": "Douglas",
+        "model": "Dragonfly",
+        "year": 1955,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "Boxer", "Transverse"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/Douglas_Dragonfly_1956.jpg",
+        "history": "Douglas was a British manufacturer known for its transversely mounted (fore-and-aft) flat-twin engines. The Dragonfly was their final model, a radical design for its time with leading-link suspension front and rear. It was a smooth, comfortable, but ultimately commercially unsuccessful machine.",
+        "specs": {
+            "engine": "348cc air-cooled, OHV flat-twin",
+            "horsepower": 17.0,
+            "torque": null,
+            "mileage_kmpl": 25,
+            "top_speed": 110,
+            "weight": 165,
+            "cc": 348,
+            "price_original_inr": null
+        },
+        "color_variants": ["Blue/Silver", "Maroon/Beige"]
+    }
+  ],
+  "Ducati": [
+    {
+        "id": "ducati_916_1994",
+        "brand": "Ducati",
+        "model": "916",
+        "year": 1994,
+        "status": "Discontinued",
+        "tags": ["Superbike", "Iconic", "Design", "V-Twin", "Legendary"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ducati_916_Senna_vl_silver.jpg",
+        "history": "The Ducati 916, designed by Massimo Tamburini, is widely regarded as one of the most beautiful motorcycles ever made. Its combination of a single-sided swingarm, under-seat exhausts, and aggressive styling changed superbike design forever. It also dominated the World Superbike Championship, cementing its legendary status.",
+        "specs": {
+            "engine": "916cc liquid-cooled, desmodromic DOHC L-twin",
+            "horsepower": 114.0,
+            "torque": 90,
+            "mileage_kmpl": 14,
+            "top_speed": 260,
+            "weight": 195,
+            "cc": 916,
+            "price_original_inr": null
+        },
+        "color_variants": ["Ducati Red", "Yellow", "Senna Grey"]
+    },
+    {
+        "id": "ducati_panigale_v4_s_2022",
+        "brand": "Ducati",
+        "model": "Panigale V4 S",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Superbike", "V4", "Technology", "Track Focused"],
+        "imageURL": "https://images.ctfassets.net/x7j9qwvpvr5s/6yO2i0nZ20wR1a2y9L3IZP/4296b1b7470f7d5494d400e964b3602d/Panigale_V4_S_MY23_Model_Preview_1920x1080_2.jpg",
+        "history": "The Panigale V4 marked Ducati's historic shift from V-twins to V4s for its flagship superbikes, drawing directly from its MotoGP program. The 'S' model features Öhlins electronic suspension, lightweight Marchesini wheels, and a suite of advanced electronics, making it one of the most potent track weapons available to the public.",
+        "specs": {
+            "engine": "1103cc liquid-cooled, Desmosedici Stradale 90° V4",
+            "horsepower": 215.5,
+            "torque": 123.6,
+            "mileage_kmpl": 13,
+            "top_speed": 299,
+            "weight": 195.5,
+            "cc": 1103,
+            "price_original_inr": 3199000
+        },
+        "color_variants": ["Ducati Red"]
+    },
+    {
+        "id": "ducati_monster_m900_1993",
+        "brand": "Ducati",
+        "model": "Monster M900",
+        "year": 1993,
+        "status": "Discontinued",
+        "tags": ["Naked", "Streetfighter", "Iconic", "V-Twin"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ducati_Monster_M900_red_1.jpg",
+        "history": "The original Monster M900, designed by Miguel Galluzzi, created the 'naked bike' or 'streetfighter' category. The concept was simple: take a superbike (the 851/888 trellis frame) and an existing engine (the 900SS L-twin), and strip away all non-essential bodywork. Its minimalist, muscular look was a massive success that saved Ducati.",
+        "specs": {
+            "engine": "904cc air/oil-cooled, desmodromic SOHC L-twin",
+            "horsepower": 73.0,
+            "torque": 76,
+            "mileage_kmpl": 16,
+            "top_speed": 210,
+            "weight": 185,
+            "cc": 904,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Yellow", "Black"]
+    },
+    {
+        "id": "ducati_multistrada_v4_s_2021",
+        "brand": "Ducati",
+        "model": "Multistrada V4 S",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Adventure", "Sport Touring", "V4", "Technology"],
+        "imageURL": "https://images.ctfassets.net/x7j9qwvpvr5s/3Hq4E7W71o39T3L2M78wA8/31ed32a2656da8713d39f72b21762c93/MTS_V4_S_GY_Model_Preview_1920x1080.jpg",
+        "history": "The Multistrada V4 S redefined the premium adventure-touring segment. It was the first production motorcycle to feature front and rear radar, enabling adaptive cruise control and blind-spot detection. Combined with the powerful V4 Granturismo engine (with non-desmo valves for longer service intervals), it's a technological marvel for on-road touring.",
+        "specs": {
+            "engine": "1158cc liquid-cooled, V4 Granturismo 90° V4",
+            "horsepower": 170.0,
+            "torque": 125,
+            "mileage_kmpl": 15,
+            "top_speed": 250,
+            "weight": 243,
+            "cc": 1158,
+            "price_original_inr": 2549000
+        },
+        "color_variants": ["Aviator Grey", "Ducati Red", "Iceberg White"]
+    },
+    {
+        "id": "ducati_scrambler_desert_sled_2019",
+        "brand": "Ducati",
+        "model": "Scrambler Desert Sled",
+        "year": 2019,
+        "status": "In Production",
+        "tags": ["Scrambler", "Retro", "V-Twin", "Off-Road"],
+        "imageURL": "https://images.ctfassets.net/x7j9qwvpvr5s/506bB2eD61F9dK1Ld01m4N/6e17ff7523fbb99f57bbab47df9d945a/scr_ds_t2_1920x1080.jpg",
+        "history": "While the base Scrambler is more of a style exercise, the Desert Sled is a genuinely capable off-road machine. Inspired by the modified desert racers of the 60s and 70s, it features a reinforced frame, long-travel adjustable suspension, a 19-inch front wheel, and a more commanding riding position.",
+        "specs": {
+            "engine": "803cc air-cooled, desmodromic SOHC L-twin",
+            "horsepower": 73.0,
+            "torque": 66.2,
+            "mileage_kmpl": 19,
+            "top_speed": 190,
+            "weight": 209,
+            "cc": 803,
+            "price_original_inr": 1209000
+        },
+        "color_variants": ["Sparking Blue"]
+    }
+  ],
+  "Dürkopp": [
+    {
+        "id": "durkopp_diana_1955",
+        "brand": "Dürkopp",
+        "model": "Diana",
+        "year": 1955,
+        "status": "Discontinued",
+        "tags": ["Scooter", "Historic", "Classic", "German"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Duerkopp_Diana_Sport.jpg",
+        "history": "The Dürkopp Diana was a high-end German scooter from the 1950s, a domestic competitor to Vespa and Lambretta. It was known for its quality construction, stylish lines, and features like an electric starter, which was a luxury at the time. The 'Sport' version had a distinctive red color scheme.",
+        "specs": {
+            "engine": "194cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 9.5,
+            "torque": null,
+            "mileage_kmpl": 30,
+            "top_speed": 95,
+            "weight": 140,
+            "cc": 194,
+            "price_original_inr": null
+        },
+        "color_variants": ["Two-tone Beige/Brown", "Red (Sport)"]
+    }
+  ],
+  "EBR (Erik Buell Racing)": [
+    {
+        "id": "ebr_1190rx_2014",
+        "brand": "EBR",
+        "model": "1190RX",
+        "year": 2014,
+        "status": "Discontinued",
+        "tags": ["Superbike", "V-Twin", "American", "Track Focused"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/EBR_1190RX_%28cropped%29.jpg",
+        "history": "The 1190RX was the primary production superbike from Erik Buell Racing after the closure of Buell by Harley-Davidson. It was an evolution of the 1125R and the race-only 1190RS, designed to be a world-class American superbike to compete with the best from Europe and Japan. Despite its performance, the company struggled financially and ceased production.",
+        "specs": {
+            "engine": "1190cc liquid-cooled, DOHC 72° V-twin",
+            "horsepower": 185.0,
+            "torque": 138,
+            "mileage_kmpl": 14,
+            "top_speed": 290,
+            "weight": 190,
+            "cc": 1190,
+            "price_original_inr": null
+        },
+        "color_variants": ["Strike Yellow", "Racing Red", "Galactic Black"]
+    }
+  ],
+  "Energica": [
+    {
+        "id": "energica_ego_plus_2021",
+        "brand": "Energica",
+        "model": "Ego+",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Electric", "Superbike", "Italian", "Performance"],
+        "imageURL": "https://www.energicamotor.com/content/uploads/energica-ego-sport-black.jpg",
+        "history": "The Energica Ego+ is a premium Italian electric superbike, born in Italy's 'Motor Valley'. It established its performance credentials as the sole manufacturer for the FIM Enel MotoE World Cup. The Ego+ is known for its massive torque, high-quality components (Ohlins, Brembo), and blistering acceleration.",
+        "specs": {
+            "engine": "Oil-Cooled 3-Phase Permanent Magnet AC Motor",
+            "horsepower": 171.0,
+            "torque": 222,
+            "mileage_kmpl": 420,
+            "top_speed": 240,
+            "weight": 260,
+            "cc": 0,
+            "price_original_inr": null
+        },
+        "color_variants": ["Rosso Corsa", "Sport Black"]
+    }
+  ],
+  "Excelsior": [
+    {
+        "id": "excelsior_super_x_1929",
+        "brand": "Excelsior",
+        "model": "Super X",
+        "year": 1929,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "V-Twin", "American"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Excelsior_Super_X_1929_Right_Side.jpg",
+        "history": "The Excelsior Super X was a powerful and popular motorcycle from one of America's 'Big Three' manufacturers of the early 20th century (along with Indian and Harley-Davidson). The 1929 model was known for its performance and was a direct competitor to the Indian Scout and Harley Model D. The company ceased production in 1931 due to the Great Depression.",
+        "specs": {
+            "engine": "737cc air-cooled, IOE 45° V-twin",
+            "horsepower": 20.0,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 120,
+            "weight": 193,
+            "cc": 737,
+            "price_original_inr": null
+        },
+        "color_variants": ["Blue", "Olive Green"]
+    },
+    {
+        "id": "excelsior_henderson_super_x_1999",
+        "brand": "Excelsior-Henderson",
+        "model": "Super X",
+        "year": 1999,
+        "status": "Discontinued",
+        "tags": ["Cruiser", "Retro", "V-Twin", "Revival"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/1999_Excelsior-Henderson_Super_X.jpg",
+        "history": "In the late 1990s, an ambitious attempt was made to revive the Excelsior-Henderson name. The resulting Super X was a large, high-quality cruiser featuring a proprietary fuel-injected V-twin engine and styling inspired by the classic Henderson models. Despite initial acclaim, the company folded after a short production run.",
+        "specs": {
+            "engine": "1386cc air-cooled, DOHC 50° V-twin",
+            "horsepower": 67.0,
+            "torque": 115,
+            "mileage_kmpl": 15,
+            "top_speed": 180,
+            "weight": 299,
+            "cc": 1386,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black", "Two-tone Red/Cream"]
+    }
+  ],
+  "Fantic": [
+    {
+        "id": "fantic_caballero_scrambler_500_2020",
+        "brand": "Fantic",
+        "model": "Caballero Scrambler 500",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["Scrambler", "Modern Classic", "Retro", "Thumper"],
+        "imageURL": "https://www.fantic.com/img/3.0.0.0/prodotti/moto/caballero/scrambler-500/my21/Dettaglio_Scrambler_500_MY21_Rosso.jpg",
+        "history": "The Fantic Caballero is a revival of a famous model line from the 1970s. The modern Scrambler 500 is a stylish and lightweight bike that has been hugely successful for the brand. It blends classic Italian scrambler design with a reliable and punchy single-cylinder engine, creating a fun and agile ride.",
+        "specs": {
+            "engine": "449cc liquid-cooled, SOHC 4-stroke single-cylinder",
+            "horsepower": 40.0,
+            "torque": 43,
+            "mileage_kmpl": 23,
+            "top_speed": 150,
+            "weight": 150,
+            "cc": 449,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Blue", "Black"]
+    }
+  ],
+  "FB Mondial": [
+    {
+        "id": "fbmondial_hps_300_2019",
+        "brand": "FB Mondial",
+        "model": "HPS 300",
+        "year": 2019,
+        "status": "In Production",
+        "tags": ["Scrambler", "Cafe Racer", "Retro", "Hipster"],
+        "imageURL": "https://www.fbmondial.com/wp-content/uploads/2021/04/HPS300_Grigio.png",
+        "history": "FB Mondial, a historic Italian racing brand, was revived to produce stylish small-displacement bikes. The HPS (short for 'Hipster') 300 combines scrambler and cafe racer elements, with its most distinctive feature being the twin high-mounted exhaust pipes. It's an Italian design built around a Piaggio-derived engine.",
+        "specs": {
+            "engine": "249cc liquid-cooled, DOHC 4-stroke single-cylinder",
+            "horsepower": 23.0,
+            "torque": 22,
+            "mileage_kmpl": 30,
+            "top_speed": 130,
+            "weight": 149,
+            "cc": 249,
+            "price_original_inr": null
+        },
+        "color_variants": ["Grey", "Black"]
+    }
+  ],
+  "FN": [
+    {
+        "id": "fn_four_1905",
+        "brand": "FN",
+        "model": "Four",
+        "year": 1905,
+        "status": "Discontinued",
+        "tags": ["Historic", "Pioneer", "Inline-4", "Shaft Drive"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c2/1910_FN_Four_Cylinder_3.JPG",
+        "history": "The Belgian FN Four is a landmark in motorcycle history, as it was the world's first production motorcycle with an inline-four-cylinder engine. Produced from 1905 to 1923, it was a smooth, quiet, and reliable machine for its time and pioneered concepts like shaft drive that were far ahead of their contemporaries.",
+        "specs": {
+            "engine": "362cc air-cooled, IOE inline-4",
+            "horsepower": 3.5,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": 64,
+            "weight": 75,
+            "cc": 362,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black"]
+    }
+  ],
+  "Francis-Barnett": [
+    {
+        "id": "francisbarnett_falcon_1959",
+        "brand": "Francis-Barnett",
+        "model": "Falcon 87",
+        "year": 1959,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "2-Stroke", "Lightweight"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/df/Francis-Barnett_Falcon_87_1959.jpg",
+        "history": "Francis-Barnett was a British manufacturer known for its lightweight 'built like a bridge' motorcycles, referring to their triangulated bolt-together frames. The Falcon was a popular model, a simple and economical commuter bike powered by a reliable AMC (Villiers) two-stroke engine.",
+        "specs": {
+            "engine": "199cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 10.0,
+            "torque": null,
+            "mileage_kmpl": 30,
+            "top_speed": 95,
+            "weight": 116,
+            "cc": 199,
+            "price_original_inr": null
+        },
+        "color_variants": ["Maroon", "Green"]
+    }
+  ],
+  "GasGas": [
+    {
+        "id": "gasgas_txt_racing_300_2022",
+        "brand": "GasGas",
+        "model": "TXT Racing 300",
+        "year": 2022,
+        "status": "In Production",
+        "tags": ["Trials", "Competition", "2-Stroke"],
+        "imageURL": "https://p.calameoassets.com/221124111306-039ac8932454e7d8009363d680190533/p1.jpg",
+        "history": "GasGas has a rich heritage in the world of motorcycle trials, winning numerous world championships. The TXT Racing 300 is their flagship trials model, a featherlight and incredibly responsive machine designed for top-level competition. Since being acquired by KTM, the brand benefits from a wider distribution and resource network.",
+        "specs": {
+            "engine": "294.1cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 67.9,
+            "cc": 294,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red"]
+    },
+    {
+        "id": "gasgas_sm_700_2023",
+        "brand": "GasGas",
+        "model": "SM 700",
+        "year": 2023,
+        "status": "In Production",
+        "tags": ["Supermoto", "Thumper", "Street", "Single-Cylinder"],
+        "imageURL": "https://p.calameoassets.com/230119100140-155e8c1fc3424d528990b7937d2de287/p1.jpg",
+        "history": "The SM 700 is part of GasGas's expansion into street motorcycles under KTM ownership. It's essentially a re-skinned and re-branded KTM 690 SMC R, sharing the same powerful LC4 single-cylinder engine and trellis frame, but wrapped in GasGas's signature vibrant red livery. It's a pure, no-frills supermoto hooligan machine.",
+        "specs": {
+            "engine": "692.7cc liquid-cooled, SOHC 4-stroke single-cylinder",
+            "horsepower": 74.0,
+            "torque": 73.5,
+            "mileage_kmpl": 23,
+            "top_speed": 190,
+            "weight": 148.5,
+            "cc": 693,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red"]
+    }
+  ],
+  "Garelli": [
+    {
+        "id": "garelli_mosquito_1946",
+        "brand": "Garelli",
+        "model": "Mosquito",
+        "year": 1946,
+        "status": "Discontinued",
+        "tags": ["Bicycle Engine", "Historic", "2-Stroke"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Garelli_Mosquito_38-B_engine_on_a_bicycle.jpg",
+        "history": "The Garelli Mosquito was not a full motorcycle, but an incredibly popular clip-on engine kit designed to motorize a standard bicycle. Launched in post-war Italy, it was an extremely cheap form of transportation for the masses. The small 38.5cc engine sat above the rear wheel and drove it via a friction roller.",
+        "specs": {
+            "engine": "38.5cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": 0.5,
+            "torque": null,
+            "mileage_kmpl": 75,
+            "top_speed": 35,
+            "weight": 4,
+            "cc": 39,
+            "price_original_inr": null
+        },
+        "color_variants": ["Black"]
+    }
+  ],
+  "Gilera": [
+    {
+        "id": "gilera_saturno_500_1946",
+        "brand": "Gilera",
+        "model": "Saturno 500",
+        "year": 1946,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "Thumper", "Single-Cylinder"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gilera_Saturno_500cc_1952.JPG",
+        "history": "The Gilera Saturno was one of Italy's great post-war sporting singles. It was a beautiful and fast machine, successful both on the road and in racing (as the 'Competizione' version). Its big single-cylinder engine and classic lines make it a highly prized collector's motorcycle today.",
+        "specs": {
+            "engine": "498.7cc air-cooled, OHV single-cylinder",
+            "horsepower": 22.0,
+            "torque": null,
+            "mileage_kmpl": 25,
+            "top_speed": 135,
+            "weight": 170,
+            "cc": 499,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Black"]
+    },
+    {
+        "id": "gilera_runner_180_1998",
+        "brand": "Gilera",
+        "model": "Runner 180",
+        "year": 1998,
+        "status": "Discontinued",
+        "tags": ["Scooter", "Sport Scooter", "2-Stroke", "Iconic"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Gilera%20Runner%20180%20SP%2099.jpg",
+        "history": "The Gilera Runner was a revolutionary 'scooterbike', blending the performance and chassis of a motorcycle with the convenience of a scooter. The 180cc two-stroke version was famously fast, offering motorcycle-like acceleration that made it a legend in the sport scooter scene of the late 90s and early 2000s.",
+        "specs": {
+            "engine": "176cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": 21.0,
+            "torque": 19,
+            "mileage_kmpl": 20,
+            "top_speed": 120,
+            "weight": 114,
+            "cc": 176,
+            "price_original_inr": null
+        },
+        "color_variants": ["Red", "Yellow", "Silver"]
+    },
+    {
+        "id": "gilera_fuoco_500_2007",
+        "brand": "Gilera",
+        "model": "Fuoco 500",
+        "year": 2007,
+        "status": "Discontinued",
+        "tags": ["3-Wheeler", "Scooter", "Maxi-Scooter", "Unique"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Gilera_Fuoco_500_ie.jpg",
+        "history": "The Gilera Fuoco 500 (sold as the Piaggio MP3 500 in some markets) was a radical take on the three-wheeled scooter concept. With its aggressive, almost post-apocalyptic styling and a powerful 500cc engine, it offered the stability of three wheels with much more performance and attitude than its siblings.",
+        "specs": {
+            "engine": "493cc liquid-cooled, SOHC 4-stroke single-cylinder",
+            "horsepower": 40.0,
+            "torque": 46.5,
+            "mileage_kmpl": 22,
+            "top_speed": 145,
+            "weight": 253,
+            "cc": 493,
+            "price_original_inr": null
+        },
+        "color_variants": ["Matte Black", "Red", "Grey"]
+    }
+  ],
+  "Greeves": [
+    {
+        "id": "greeves_250_challenger_1967",
+        "brand": "Greeves",
+        "model": "250 Challenger",
+        "year": 1967,
+        "status": "Discontinued",
+        "tags": ["Motocross", "Historic", "2-Stroke", "Unique Suspension"],
+        "imageURL": "https://www.motorcyclespecs.co.za/Gallery_A-L_16/Greeves%20Challenger%20250%2067.jpg",
+        "history": "Greeves motorcycles are immediately recognizable by their unique front suspension: a cast aluminum beam downtube and leading-link forks. The 250 Challenger was their successful motocross model, which proved highly competitive in the hands of riders like Bryan Wade in the British Motocross Championships.",
+        "specs": {
+            "engine": "246cc air-cooled, 2-stroke single-cylinder",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 102,
+            "cc": 246,
+            "price_original_inr": null
+        },
+        "color_variants": ["Silver Blue"]
+    }
+  ],
+  "GPX": [
+    {
+        "id": "gpx_tse250r_2019",
+        "brand": "GPX",
+        "model": "TSE250R",
+        "year": 2019,
+        "status": "Discontinued",
+        "tags": ["Enduro", "2-Stroke", "Trail", "Budget"],
+        "imageURL": "https://dirtbikemagazine.com/wp-content/uploads/2019/02/GPX-TSE250R-2019.jpg",
+        "history": "The GPX TSE250R made waves by offering a modern two-stroke enduro bike at a significantly lower price point than its European competitors. Using a design based on an older Yamaha WR200 engine, it provided an affordable entry into the world of serious trail and enduro riding.",
+        "specs": {
+            "engine": "249cc liquid-cooled, 2-stroke single-cylinder",
+            "horsepower": null,
+            "torque": null,
+            "mileage_kmpl": null,
+            "top_speed": null,
+            "weight": 104,
+            "cc": 249,
+            "price_original_inr": null
+        },
+        "color_variants": ["White/Orange"]
+    }
+  ],
+  "Harley-Davidson": [
+    {
+        "id": "harleydavidson_iron_883_2015",
+        "brand": "Harley-Davidson",
+        "model": "Iron 883",
+        "year": 2015,
+        "status": "Discontinued",
+        "tags": ["Cruiser", "Bobber", "V-Twin", "Sportster", "Iconic"],
+        "imageURL": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/2022/motorcycles/xl883n/22-xl883n-01.jpg",
+        "history": "The Iron 883 was a cornerstone of Harley's Dark Custom lineup and one of the most popular Sportster models. With its blacked-out, minimalist bobber styling, it served as a perfect entry point into the Harley brand and a blank canvas for customization.",
+        "specs": {
+            "engine": "883cc air-cooled, Evolution® V-twin",
+            "horsepower": null,
+            "torque": 68,
+            "mileage_kmpl": 21,
+            "top_speed": 170,
+            "weight": 256,
+            "cc": 883,
+            "price_original_inr": 1011000
+        },
+        "color_variants": ["Black Denim", "White Sand Pearl", "Gunship Gray"]
+    },
+    {
+        "id": "harleydavidson_fat_boy_114_2020",
+        "brand": "Harley-Davidson",
+        "model": "Fat Boy 114",
+        "year": 2020,
+        "status": "In Production",
+        "tags": ["Cruiser", "Softail", "V-Twin", "Iconic"],
+        "imageURL": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/2023/motorcycles/flfbs/23-flfbs-01.jpg",
+        "history": "The Fat Boy became a global cultural icon after its starring role in the film 'Terminator 2: Judgment Day'. Its signature solid 'Lakester' disc wheels, massive presence, and steamroller stance define it. The modern version is powered by the potent Milwaukee-Eight 114 engine within the updated Softail frame.",
+        "specs": {
+            "engine": "1868cc air/oil-cooled, Milwaukee-Eight® 114 V-twin",
+            "horsepower": 94.0,
+            "torque": 155,
+            "mileage_kmpl": 18,
+            "top_speed": 190,
+            "weight": 317,
+            "cc": 1868,
+            "price_original_inr": 2199000
+        },
+        "color_variants": ["Vivid Black", "Bright Billiard Blue", "Heirloom Red Fade"]
+    },
+    {
+        "id": "harleydavidson_street_glide_special_2021",
+        "brand": "Harley-Davidson",
+        "model": "Street Glide Special",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Bagger", "Touring", "V-Twin", "Iconic"],
+        "imageURL": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/2023/motorcycles/flhxs/23-flhxs-01.jpg",
+        "history": "The Street Glide defined the modern 'factory custom bagger' category. It combines long-haul touring capability with stripped-down custom style, centered around its iconic 'batwing' fairing. The 'Special' model adds blacked-out finishes and the larger Milwaukee-Eight 114 engine.",
+        "specs": {
+            "engine": "1868cc air/oil-cooled, Milwaukee-Eight® 114 V-twin",
+            "horsepower": 93.0,
+            "torque": 158,
+            "mileage_kmpl": 18,
+            "top_speed": 180,
+            "weight": 375,
+            "cc": 1868,
+            "price_original_inr": 3399000
+        },
+        "color_variants": ["Vivid Black", "Atlas Silver Metallic", "Prospect Gold"]
+    },
+    {
+        "id": "harleydavidson_pan_america_1250_special_2021",
+        "brand": "Harley-Davidson",
+        "model": "Pan America 1250 Special",
+        "year": 2021,
+        "status": "In Production",
+        "tags": ["Adventure", "Touring", "V-Twin", "Technology"],
+        "imageURL": "https://www.harley-davidson.com/content/dam/h-d/images/product-images/2023/motorcycles/ra1250s/23-ra1250s-01.jpg",
+        "history": "The Pan America represents a monumental and bold step for Harley-Davidson into the competitive adventure touring market. It's powered by the all-new, high-performance, liquid-cooled Revolution® Max V-twin. The 'Special' model introduced the industry-first 'Adaptive Ride Height' technology.",
+        "specs": {
+            "engine": "1252cc liquid-cooled, Revolution® Max 1250 V-twin",
+            "horsepower": 150.0,
+            "torque": 128,
+            "mileage_kmpl": 18,
+            "top_speed": 220,
+            "weight": 258,
+            "cc": 1252,
+            "price_original_inr": 1825000
+        },
+        "color_variants": ["Vivid Black", "Gauntlet Gray Metallic", "Baja Orange/Stone Washed White Pearl"]
+    },
+    {
+        "id": "harleydavidson_el_knucklehead_1936",
+        "brand": "Harley-Davidson",
+        "model": "EL 'Knucklehead'",
+        "year": 1936,
+        "status": "Discontinued",
+        "tags": ["Historic", "Classic", "V-Twin", "Iconic"],
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/25/1947_Harley-Davidson_EL.jpg",
+        "history": "The EL, powered by the new overhead-valve 'Knucklehead' engine, was a landmark model for Harley-Davidson. The engine's distinctive rocker boxes gave it its famous nickname and set the visual template for Harley V-twins for decades to come. It's one of the most celebrated and valuable historic American motorcycles.",
+        "specs": {
+            "engine": "1000cc air-cooled, OHV 45° V-twin",
+            "horsepower": 40.0,
+            "torque": null,
+            "mileage_kmpl": 15,
+            "top_speed": 150,
+            "weight": 247,
+            "cc": 1000,
+            "price_original_inr": null
+        },
+        "color_variants": ["Various Two-Tone Schemes"]
+    }
+  ]
+}

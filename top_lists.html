@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Lists | Motorcycle Encyclopedia</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- NAVIGATION -->
+    <nav>
+        <div class="container">
+            <a href="index.html" class="logo chrome-text">MOTO ENCYCLO</a>
+            <ul>
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="brands.html" class="nav-link">Brands</a></li>
+                <li><a href="bikes.html" class="nav-link">Browse Bikes</a></li>
+                <li><a href="compare.html" class="nav-link">Compare</a></li>
+                <li><a href="top_lists.html" class="nav-link active">Top Lists</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- MAIN CONTENT -->
+    <div class="container">
+        <h1 class="chrome-text" style="font-size: 3rem; margin: 2rem 0;">Top Motorcycle Lists</h1>
+        
+        <div class="list-navigation">
+            <a onclick="scrollToSection('top-power')">🔥 Most Powerful</a>
+            <a onclick="scrollToSection('top-speed')">⚡ Fastest</a>
+            <a onclick="scrollToSection('top-mileage')">🍃 Fuel Efficient</a>
+            <a onclick="scrollToSection('top-expensive')">💎 Most Expensive</a>
+            <a onclick="scrollToSection('top-affordable')">💰 Most Affordable</a>
+        </div>
+
+        <div id="top-power" class="list-section"></div>
+        <div id="top-speed" class="list-section"></div>
+        <div id="top-mileage" class="list-section"></div>
+        <div id="top-expensive" class="list-section"></div>
+        <div id="top-affordable" class="list-section"></div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Motorcycle Encyclopedia. Built with Asphalt & Chrome. All prices in Indian Rupees (INR).</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        loadTopListsPage();
+    </script>
+</body>
+</html>
